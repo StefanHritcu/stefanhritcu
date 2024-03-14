@@ -5,7 +5,7 @@
 </p>
 
 
-  <p align="center">I'm Stefan from Rome, coming from a self-taught learning journey lasting over 7 months, where I've studied diligently and passionately in my free time what will enable me to work in a professional setting. During my self-taught learning journey, I dedicated time to personal projects, honing my skills and tackling stimulating challengesproficient in HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, and Git.</p>
+  <p align="center">I'm Stefan , coming from a self-taught learning journey lasting over 7 months, where I've studied diligently and passionately in my free time what will enable me to work in a professional setting. During my self-taught learning journey, I dedicated time to personal projects, honing my skills and tackling stimulating challengesproficient in HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, and Git.</p>
 
   <hr/>
 
