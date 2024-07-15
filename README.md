@@ -17,7 +17,7 @@
 - **Scomposizione dei problemi in sotto-problemi** 🔍
 - **ChatGPT** 💬
 - **Attenzione ai minimi dettagli (un problema se hai poco tempo a disposizione !)** 🕵️‍♂️
-- **Ho dato molto spazio alla conoscenza della mente e del modo in cui la si può sfruttare di più allenandola ogni giorno:**
+- ###Ho dedicato molto spazio alla comprensione della mente e al suo potenziamento attraverso l'allenamento quotidiano:###
 - **Mentalità algoritmica** 🧠
 - **Risoluzione dei problemi focalizzata** 🎯
   (capacità di affrontare e risolvere le sfide durante lo sviluppo)
