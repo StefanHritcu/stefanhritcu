@@ -26,7 +26,7 @@
 
 <hr/>
 
-## Progetti
+## ----------> Progetti <----------
 
 ### Progetto Ristorante con Stack MERN
 
