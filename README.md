@@ -1,8 +1,8 @@
-<h1 align="center">Ciao 👋 welcome!</h1>
+<h1 align="center">Ciao 👋</h1>
 <h2 align="center">Stefan Hritcu - Front End Developer</h2>
-<p align="center">
+<section align="center">
   <img width="200px" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF6bGx3dHNpMWtndjcxd3R2cm9namZrbDlidXlxbzVoOTRzcXJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Front End Developer">
-</p>
+</section>
 
 
   <p align="center">I'm Stefan , coming from a self-taught learning journey lasting over 7 months, where I've studied diligently and passionately in my free time what will enable me to work in a professional setting. During my self-taught learning journey, I dedicated time to personal projects, honing my skills and tackling stimulating challengesproficient in HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, and Git.</p>
