@@ -26,10 +26,34 @@
 
 <hr/>
 
-## Contattami:
-- 📫 **LinkedIn**: <a href="https://www.linkedin.com/in/stefan-hritcu-93b67028a/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-- **Facebook**: <a href="https://www.facebook.com/profile.php?id=100092754104479" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
-- **Email**: <a href="mailto:shritcu@proton.me" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'></a>
+## Progetti
+
+### Progetto Ristorante con Stack MERN
+
+**Descrizione:** Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
+
+**GitHub Repository:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN)
+
+In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
+
+- **Frontend:** React, JavaScript/ES6+, HTML, CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Deployment:** Heroku
+
+Questo progetto mi ha permesso di approfondire le mie competenze nello sviluppo full-stack utilizzando il stack MERN. Ho implementato un'interfaccia utente intuitiva per i clienti e una robusta dashboard per il personale del ristorante, migliorando la gestione delle prenotazioni e delle operazioni quotidiane.
+
+![Demo Progetto Ristorante](inserisci_url_immagine_o_gif)
+
+---
+
+Includi qui altri progetti con una breve descrizione e i link ai repository GitHub. Assicurati di evidenziare le tecnologie utilizzate e le competenze acquisite in ciascun progetto.
+
+## Contattami
+
+Per ulteriori informazioni sui progetti o per parlare di opportunità, puoi contattarmi tramite:
+
+- **LinkedIn:** [Stefan Hritcu](https://www.linkedin.com/in/stefan-hritcu-93b67028a/)
+- **Email:** [shritcu@proton.me](mailto:shritcu@proton.me)
 
 <hr/>
 
