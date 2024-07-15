@@ -5,7 +5,9 @@
 </section>
 
 
-  <p align="center">I'm Stefan , coming from a self-taught learning journey lasting over 7 months, where I've studied diligently and passionately in my free time what will enable me to work in a professional setting. During my self-taught learning journey, I dedicated time to personal projects, honing my skills and tackling stimulating challengesproficient in HTML, CSS, JavaScript, Tailwind CSS, React, Next.js, and Git.</p>
+  <p align="center">Mi chiamo Stefan Hritcu e sono un autodidatta nel campo dello sviluppo web. In oltre 9 mesi di studio intensivo, ho acquisito competenze che vanno da <span color="red">HTML</span> e CSS ai framework e preprocessori come Tailwind CSS, Bootstrap e SCSS. Ho esperienza in JavaScript, con particolare attenzione a React e conoscenze di base in Angular, implementando TypeScript per migliorare la sicurezza dei progetti.
+
+Ho utilizzato Git, GitHub e Vercel per la gestione e il deployment dei progetti, e ho dedicato tempo a progetti personali per ampliare il mio portfolio..</p>
 
   <hr/>
 
