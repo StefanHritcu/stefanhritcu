@@ -41,7 +41,7 @@ In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
 - **Backend:** Node.js, Express.js, MongoDB
 - **Deployment:** Netlify (solo lato frontend)
 
-![Demo Progetto Ristorante](inserisci_url_immagine_o_gif)
+![Demo Progetto Ristorante](mernImg.png)
 
 ---
 
