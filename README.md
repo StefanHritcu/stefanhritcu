@@ -28,7 +28,7 @@ Ho utilizzato **Git**, **GitHub** e **Vercel** per la gestione e il deployment d
   <hr/>
 
 ## Sono aperto a collaborazioni e progetti da sviluppare insieme a te. Non esitare a contattarmi:
-- 📫 Come contattarmi: - 📫 Come contattarmi: <a href="https://www.linkedin.com/in/stefan-hritcu-93b67028a/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a> <a href="https://www.facebook.com/profile.php?id=100092754104479" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a> oppure <a href="mailto:shritcu@proton.me" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'></a>
+- 📫 Come contattarmi: <img target="_blank" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> <a href="https://www.linkedin.com/in/stefan-hritcu-93b67028a/">LINKEDIN</a> - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> <a href="https://www.facebook.com/profile.php?id=100092754104479">FACEBOOK</a>  oppure  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'> <a href="mailto:shritcu@proton.me">EMAIL</a>
 
 <hr/>
 
