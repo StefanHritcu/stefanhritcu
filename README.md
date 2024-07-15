@@ -5,9 +5,10 @@
 </section>
 
 
-<p align="center">Mi chiamo Stefan Hritcu e sono un autodidatta nel campo dello sviluppo web. In oltre 9 mesi di studio intensivo, ho acquisito competenze che vanno da <span style="color:red">HTML</span> e CSS ai framework e preprocessori come <span style="color:blue">Tailwind CSS</span>, <span style="color:blue">Bootstrap</span> e <span style="color:blue">SCSS</span>. Ho esperienza in JavaScript, con particolare attenzione a <span style="color:purple">React</span> e conoscenze di base in <span style="color:purple">Angular</span>, implementando <span style="color:purple">TypeScript</span> per migliorare la sicurezza dei progetti.
+<p align="center">Mi chiamo Stefan Hritcu e sono un autodidatta nel campo dello sviluppo web. In oltre 9 mesi di studio intensivo, ho acquisito competenze che vanno da **HTML** e CSS ai framework e preprocessori come **Tailwind CSS**, **Bootstrap** e **SCSS**. Ho esperienza in JavaScript, con particolare attenzione a **React** e conoscenze di base in **Angular**, implementando **TypeScript** per migliorare la sicurezza dei progetti.
 
-Ho utilizzato <span style="color:green">Git</span>, <span style="color:green">GitHub</span> e <span style="color:green">Vercel</span> per la gestione e il deployment dei progetti, e ho dedicato tempo a progetti personali per ampliare il mio portfolio.</p>
+Ho utilizzato **Git**, **GitHub** e **Vercel** per la gestione e il deployment dei progetti, e ho dedicato tempo a progetti personali per ampliare il mio portfolio.</p>
+
 
 
   <hr/>
