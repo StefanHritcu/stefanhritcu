@@ -47,7 +47,6 @@ In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
 
 ---
 
-Includi qui altri progetti con una breve descrizione e i link ai repository GitHub. Assicurati di evidenziare le tecnologie utilizzate e le competenze acquisite in ciascun progetto.
 
 ## Contattami
 
