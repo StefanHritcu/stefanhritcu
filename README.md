@@ -33,6 +33,7 @@
 **Descrizione:** Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
 
 **GitHub Repository:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN)
+**LINK DEL DEPLOY SU NETLIFY: (https://main--ristorantemern.netlify.app/)**
 
 In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
 
