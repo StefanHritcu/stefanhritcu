@@ -28,20 +28,30 @@
 
 ## ----------> Progetti <----------
 
-### Progetto Ristorante con Stack MERN
+## Progetto Ristorante con Stack MERN
 
-**Descrizione:** Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+  
+  **Descrizione:** Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
 
-**GitHub Repository:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN)
-**LINK DEL DEPLOY SU NETLIFY: (https://main--ristorantemern.netlify.app/)**
+  **GitHub Repository:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN)
 
-In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
+  **LINK DEL DEPLOY SU NETLIFY:** [Ristorante MERN su Netlify](https://main--ristorantemern.netlify.app/)
 
-- **Frontend:** React, JavaScript/ES6+, HTML, CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Deployment:** Netlify (solo lato frontend)
+  In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
 
-![Demo Progetto Ristorante](mernImg.png)
+  - **Frontend:** React, JavaScript/ES6+, HTML, CSS
+  - **Backend:** Node.js, Express.js, MongoDB
+  - **Deployment:** Netlify (solo lato frontend)
+  
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 100%; max-width: 400px;">
+  </div>
+</div>
+
 
 ---
 
