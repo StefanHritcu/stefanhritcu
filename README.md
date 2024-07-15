@@ -14,19 +14,20 @@
 <hr/>
 
 ## -----------------------------------------------> Skills <-----------------------------------------------
-- **Scomposizione dei problemi in sotto-problemi**
-- **ChatGPT**
-- **Attenzione ai minimi dettagli (un problema se hai poco tempo a disposizone !)**
-- ## Ho dato molto spazio alla conoscenza della mente e del modo in cui la si può sfruttare di piu allenandola ogni giorno:
-- **Mentalità algoritmica**
-- **Risoluzione dei problemi focalizzata**
+- **Scomposizione dei problemi in sotto-problemi** 🔍
+- **ChatGPT** 💬
+- **Attenzione ai minimi dettagli (un problema se hai poco tempo a disposizione !)** 🕵️‍♂️
+- ## Ho dato molto spazio alla conoscenza della mente e del modo in cui la si può sfruttare di più allenandola ogni giorno:
+- **Mentalità algoritmica** 🧠
+- **Risoluzione dei problemi focalizzata** 🎯
   (capacità di affrontare e risolvere le sfide durante lo sviluppo)
-- **Sviluppo di soluzioni innovative**
+- **Sviluppo di soluzioni innovative** 🌟
   (creazione di approcci originali per migliorare il processo di sviluppo)
-- **Ottimizzazione dell'efficienza**
+- **Ottimizzazione dell'efficienza** ⏱️
   (miglioramento della produttività e riduzione dei tempi morti)
 
 <hr/>
+
 
 ## ---------------------------------------------> Progetti <---------------------------------------------
 
