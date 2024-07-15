@@ -39,9 +39,7 @@ In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
 
 - **Frontend:** React, JavaScript/ES6+, HTML, CSS
 - **Backend:** Node.js, Express.js, MongoDB
-- **Deployment:** Heroku
-
-Questo progetto mi ha permesso di approfondire le mie competenze nello sviluppo full-stack utilizzando il stack MERN. Ho implementato un'interfaccia utente intuitiva per i clienti e una robusta dashboard per il personale del ristorante, migliorando la gestione delle prenotazioni e delle operazioni quotidiane.
+- **Deployment:** Netlify (solo lato frontend)
 
 ![Demo Progetto Ristorante](inserisci_url_immagine_o_gif)
 
