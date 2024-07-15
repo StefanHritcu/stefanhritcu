@@ -48,7 +48,11 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 
 **Link del sito con Netlify:** (https://main--ristorantemern.netlify.app/).
 
-![Demo Progetto Ristorante](mernImg.png) ![Demo Progetto Ristorante](mernImg.png)
+<div style="display: flex; justify-content: center;">
+  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
+  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-left: 10px;">
+</div>
+
 
 
 ---
