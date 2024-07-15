@@ -50,7 +50,7 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 
 <div style="display: flex; justify-content: center;">
   <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
-  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-left: 10px;">
+  <img src="ristoranteTablet.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-left: 10px;">
 </div>
 
 
