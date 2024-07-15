@@ -13,9 +13,11 @@
 
 <hr/>
 
-## ----------------------------------------> Skills <----------------------------------------
+## ------------------------------------------------> Skills <------------------------------------------------
 - **Scomposizione dei problemi in sotto-problemi**
 - **ChatGPT**
+- **Attenzione ai minimi dettagli (un problema se hai poco tempo a disposizone !)**
+- ## Ho dato molto spazio alla conoscenza della mente e del modo in cui la si può sfruttare di piu allenandola ogni giorno:
 - **Mentalità algoritmica**
 - **Risoluzione dei problemi focalizzata**
   (capacità di affrontare e risolvere le sfide durante lo sviluppo)
@@ -26,7 +28,7 @@
 
 <hr/>
 
-## ----------------------------------------> Progetti <----------------------------------------
+## ------------------------------------------------> Progetti <------------------------------------------------
 
 ### Progetto Ristorante con Stack MERN
 
