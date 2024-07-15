@@ -8,7 +8,7 @@
 <p align="center" style="margin: 0 120px;">
   Mi chiamo Stefan Hritcu e sono un autodidatta nel campo dello sviluppo web. In oltre 9 mesi di studio intensivo, ho acquisito competenze che vanno da **HTML** e CSS ai framework e preprocessori come **Tailwind CSS**, **Bootstrap** e **SCSS**. Ho esperienza in **JavaScript**, con particolare attenzione a **React** e conoscenze di base in **Angular**, implementando **TypeScript** per migliorare la sicurezza dei progetti.
 
-  Ho utilizzato **Git**, **GitHub** e **Vercel** per la gestione e il deployment dei progetti, e ho dedicato tempo a progetti personali per ampliare il mio portfolio.
+  Ho utilizzato **Git**, **GitHub** e **Netlify** per la gestione e il deployment dei progetti, e ho dedicato tempo a progetti personali per ampliare il mio portfolio.
 </p>
 
 <hr/>
@@ -33,6 +33,7 @@
 **Descrizione:** Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
 
 **GitHub Repository:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN)
+
 **LINK DEL DEPLOY SU NETLIFY: (https://main--ristorantemern.netlify.app/)**
 
 In questo progetto, ho utilizzato le seguenti tecnologie e strumenti:
