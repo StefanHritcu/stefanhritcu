@@ -12,9 +12,7 @@
       <p>
        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta nato a [Tua Città Nativa]. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
       </p>
-    </td>
-        <td style="padding-left: 20px;">
-      <p>
+            <p>
        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta nato a [Tua Città Nativa]. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
       </p>
     </td>
