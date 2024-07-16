@@ -40,7 +40,8 @@
 </div>
 
 ### Links: ### 
-**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN).
+**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN)
+
 **Link del sito con Netlify:** (https://main--ristorantemern.netlify.app/).
 
 ### Descrizione: ### 
