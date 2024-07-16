@@ -96,7 +96,7 @@ WeatherApi è un'app. che fornisce informazioni meteo dettagliate inserendo il n
 ---
 
 
-## Contattami
+## -----------------------------------------------> Contatti <-----------------------------------------------
 
 Per ulteriori informazioni sui progetti o per parlare di opportunità, puoi contattarmi tramite:
 
