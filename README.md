@@ -1,14 +1,20 @@
 <h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
 <h2 align="center">Front End Developer</h2>
 
-<section align="center">
-  <img width="200px" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF6bGx3dHNpMWtndjcxd3R2cm9namZrbDlidXlxbzVoOTRzcXJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Front End Developer">
-</section>
-
-<p align="center" style="margin: 0 120px;">
-  Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta con oltre 9 mesi di studio intensivo. Ho acquisito competenze che spaziano da **HTML** e **CSS** ai framework e preprocessori come **Tailwind CSS**, **Bootstrap** e **SCSS**. Ho esperienza in **JavaScript**, con particolare attenzione a **React** e conoscenze di base in **Angular**, implementando **TypeScript** per migliorare la sicurezza dei progetti.
-Utilizzo Git, GitHub e Netlify per la gestione e il deployment dei progetti, dedicando tempo a progetti personali per ampliare il mio portfolio.
-</p>
+<table>
+  <tr>
+    <td>
+      <section>
+        <img width="200px" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF6bGx3dHNpMWtndjcxd3R2cm9namZrbDlidXlxbzVoOTRzcXJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Front End Developer">
+      </section>
+    </td>
+    <td style="padding-left: 20px;">
+      <p>
+        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta con oltre 9 mesi di studio intensivo. Ho acquisito competenze che spaziano da <strong>HTML</strong> e <strong>CSS</strong> ai framework e preprocessori come <strong>Tailwind CSS</strong>, <strong>Bootstrap</strong> e <strong>SCSS</strong>. Ho esperienza in <strong>JavaScript</strong>, con particolare attenzione a <strong>React</strong> e conoscenze di base in <strong>Angular</strong>, implementando <strong>TypeScript</strong> per migliorare la sicurezza dei progetti. Utilizzo <strong>Git</strong>, <strong>GitHub</strong> e <strong>Netlify</strong> per la gestione e il deployment dei progetti, dedicando tempo a progetti personali per ampliare il mio portfolio.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
