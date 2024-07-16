@@ -6,7 +6,7 @@
       </section>
     </td>
     <td style="padding-left: 20px;">
-     <p style="padding-left: 40px padding-rightt: 40px">
+     <p style="margin-left: 40px margin-rightt: 40px">
        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta dove ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
       </p>
     </td>
