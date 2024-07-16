@@ -6,9 +6,8 @@
 </section>
 
 <p align="center" style="margin: 0 120px;">
-  Mi chiamo Stefan Hritcu e sono un autodidatta nel campo dello sviluppo web. In oltre 9 mesi di studio intensivo, ho acquisito competenze che vanno da **HTML** e CSS ai framework e preprocessori come **Tailwind CSS**, **Bootstrap** e **SCSS**. Ho esperienza in **JavaScript**, con particolare attenzione a **React** e conoscenze di base in **Angular**, implementando **TypeScript** per migliorare la sicurezza dei progetti.
-
-  Ho utilizzato **Git**, **GitHub** e **Netlify** per la gestione e il deployment dei progetti, e ho dedicato tempo a progetti personali per ampliare il mio portfolio.
+  Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta con oltre 9 mesi di studio intensivo. Ho acquisito competenze che spaziano da **HTML** e **CSS** ai framework e preprocessori come **Tailwind CSS**, **Bootstrap** e **SCSS**. Ho esperienza in **JavaScript**, con particolare attenzione a **React** e conoscenze di base in **Angular**, implementando **TypeScript** per migliorare la sicurezza dei progetti.
+Utilizzo Git, GitHub e Netlify per la gestione e il deployment dei progetti, dedicando tempo a progetti personali per ampliare il mio portfolio.
 </p>
 
 <hr/>
