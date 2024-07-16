@@ -17,7 +17,7 @@
   <h3>- Sono nato in Romania e ho vissuto in diversi paesi europei durante la mia vita:</h3>
     - Dall'età di 8 anni fino ai 20 anni ho vissuto in Italia.<br>
     - Dai 20 ai 21 anni ho vissuto in Spagna.<br>
-    - Dai 21 anni fino ad oggi (30 anni) vivo in Germania.
+    - Dai 21 anni fino a fine luglio 2024 ho vissuto in Germania.
 </p>
       <h3>Hard Skills</h3>
      <p align="left">
