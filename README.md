@@ -58,6 +58,12 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 
 ## 02- **WeatherApi** Progetto Applicazione Meteo effettuando chiamate API a OpewnWeather ##
 
+<div style="display: flex; justify-content: center;">
+  <img src="weatherLaptop.png" alt="Demo Progetto Weather Api" style="width: 45%; margin-right: 10px;">
+  <img src="weatherTablet.png" alt="Demo Progetto Weather Api" style="width: 26%; margin-left: 10px;">
+   <img src="weatherMobile.png" alt="Demo Progetto Weather Api" style="width: 26%; margin-left: 10px;">
+</div>
+
 ### Descrizione: ### 
 WeatherApi è un'app. che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e MOLTO altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
 
@@ -72,14 +78,6 @@ WeatherApi è un'app. che fornisce informazioni meteo dettagliate inserendo il n
 **GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/WeatherApi).
 
 **Link del sito con Netlify:** (https://weather-api-by-hritcu.netlify.app/).
-
-<div style="display: flex; justify-content: center;">
-  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
-  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
-   <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
-</div>
-
-
 
 ---
 
