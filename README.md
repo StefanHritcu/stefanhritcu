@@ -19,7 +19,7 @@
     - Dai 20 ai 21 anni ho vissuto in Spagna.<br>
     - Dai 21 anni fino a fine luglio 2024 ho vissuto in Germania.
   <hr>
-  -----------> PRESTARE ATTENZIONE <-----------
+ ⬇️⬇️⬇️⬇️ PRESTARE ATTENZIONE ⬇️⬇️⬇️⬇️
      <hr>
     - Da agosto 2024 in Italia, Bracciano(RM) con il massimo focus di iniziare la prima esperienza lavorativa come programmatore.
 </p>
