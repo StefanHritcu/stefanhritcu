@@ -1,13 +1,30 @@
+<h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
+<h2 align="center">Front End Developer</h2>
+
 <table>
   <tr>
     <td>
-     <section>
-        <img width="1200px" height="auto" src="githubImage.png">
+      <section>
+        <img width="240px" height="auto" src="githubImage.png" alt="Front End Developer">
       </section>
     </td>
     <td style="padding-left: 20px;">
-     <p>
-       Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta dove ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
+      <p>
+        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
+      </p>
+      <h3>Hard Skills</h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" alt="Sass" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="30"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" alt="Netlify" height="30" width="30"/>
       </p>
     </td>
   </tr>
