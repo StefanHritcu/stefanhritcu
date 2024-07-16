@@ -8,8 +8,9 @@
         <img width="2400px" height="auto" src="githubImage.png">
       </section>
     </td>
-    ## -----------------------------------------------> Chi sono <-----------------------------------------------
+   
     <td style="padding-left: 20px;">
+     ## -----------------------------------------------> Chi sono <-----------------------------------------------
       <p>
        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta nato a [Tua Città Nativa]. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
       </p>
@@ -19,13 +20,8 @@
 - Attenzione ai dettagli 🕵️‍♂️
 - Accessibilità web ♿
 - SEO Basics 🔍
-    </td>
-  </tr>
-</table>
 
-<hr/>
-
-## -----------------------------------------------> Hard Skills <-----------------------------------------------
+        ## -----------------------------------------------> Soft Skills <-----------------------------------------------
 - **Scomposizione dei problemi in sotto-problemi** 🔍
 - **ChatGPT** 💬
 - Attenzione ai dettagli 🕵️‍♂️
@@ -34,6 +30,13 @@
 - Mentalità algoritmica 🧠
 - Risoluzione dei problemi focalizzata 🎯
 - Ottimizzazione dell'efficienza ⏱️
+
+
+    </td>
+  </tr>
+</table>
+
+<hr/>
 
 
 <hr/>
