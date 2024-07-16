@@ -44,7 +44,7 @@
 
 ## Soft Skills
 
-- **Corso Practitioner in Programmazione Neuro Linguistica (PNL)**
+- **(PNL) Corso Practitioner in Programmazione Neuro Linguistica**
 - **ChatGPT**
 - **Madrelingua: rumeno e italiano; Ottime conoscenze: tedesco e spagnolo; Conoscenze di base: inglese e francese**
   
