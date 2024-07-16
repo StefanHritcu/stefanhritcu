@@ -27,14 +27,25 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40" style="vertical-align: text-bottom;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40" style="vertical-align: text-bottom;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" style="vertical-align: text-bottom;">
-
-
 </p>
       </p>
     </td>
   </tr>
 </table>
 
+<hr/>
+
+## Soft Skills
+
+- **Corso Practitioner in Programmazione Neuro Linguistica (PNL)**
+- **ChatGPT**
+- **Madrelingua: rumeno e italiano; Ottime conoscenze: tedesco e spagnolo; Conoscenze di base: inglese e francese**
+  
+- **Scomposizione dei problemi in micro-problemi**
+- **Mentalità algoritmica**
+- **Esperienze di adattamento acquisite in contesti stranieri**
+- **Capacità di ascoltare, comprendere e risolvere compiti lavorativi assegnati in contesti diversi e internazionali**
+- **Esperienza lavorativa in diversi paesi: Romania, Germania, Italia, Francia e Spagna**
 
 <hr/>
 
