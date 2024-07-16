@@ -47,11 +47,10 @@
 - **(PNL) Corso Practitioner in Programmazione Neuro Linguistica**
 - **ChatGPT**
 - **Madrelingua: rumeno e italiano; Ottime conoscenze: tedesco e spagnolo; Conoscenze di base: inglese e francese**
-  
-- **Scomposizione dei problemi in micro-problemi**
-- **Mentalità algoritmica**
 - **Esperienze di adattamento acquisite in contesti stranieri**
 - **Capacità di ascoltare, comprendere e risolvere compiti lavorativi assegnati in contesti diversi e internazionali**
+- **Scomposizione dei problemi in micro-problemi**
+- **Mentalità algoritmica**
 - **Esperienza lavorativa in diversi paesi: Romania, Germania, Italia, Francia e Spagna**
 
 <hr/>
