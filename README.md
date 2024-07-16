@@ -5,7 +5,7 @@
   <tr>
     <td>
       <section>
-        <img width="1000px" height="auto" src="githubImage.png" alt="Front End Developer">
+        <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
       </section>
     </td>
     <td style="padding-left: 20px;">
