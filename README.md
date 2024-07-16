@@ -18,7 +18,20 @@
 
 <hr/>
 
-## -----------------------------------------------> Skills <-----------------------------------------------
+## -----------------------------------------------> Hard Skills <-----------------------------------------------
+- **Scomposizione dei problemi in sotto-problemi** 🔍
+- **ChatGPT** 💬
+- Attenzione ai dettagli 🕵️‍♂️
+- Accessibilità web ♿
+- SEO Basics 🔍
+- Mentalità algoritmica 🧠
+- Risoluzione dei problemi focalizzata 🎯
+- Ottimizzazione dell'efficienza ⏱️
+
+
+<hr/>
+
+## -----------------------------------------------> Soft Skills <-----------------------------------------------
 - **Scomposizione dei problemi in sotto-problemi** 🔍
 - **ChatGPT** 💬
 - Attenzione ai dettagli 🕵️‍♂️
