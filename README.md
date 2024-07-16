@@ -71,7 +71,7 @@ WeatherApi è un'app. che fornisce informazioni meteo dettagliate inserendo il n
 
 **GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/WeatherApi).
 
-**Link del sito con Netlify:** (https://main--ristorantemern.netlify.app/).
+**Link del sito con Netlify:** (https://weather-api-by-hritcu.netlify.app/).
 
 <div style="display: flex; justify-content: center;">
   <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
