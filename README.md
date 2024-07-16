@@ -18,7 +18,8 @@
     - Dall'età di 8 anni fino ai 20 anni ho vissuto in Italia.<br>
     - Dai 20 ai 21 anni ho vissuto in Spagna.<br>
     - Dai 21 anni fino a fine luglio 2024 ho vissuto in Germania.
-    - Da agosto 2024 in Italia, Bracciano(RM) con il massimo focus di iniziare la prima esperienza lavorativa come programmatore
+  <hr>
+    - Da agosto 2024 in Italia, Bracciano(RM) con il massimo focus di iniziare la prima esperienza lavorativa come programmatore.
 </p>
       <h3>Hard Skills</h3>
      <p align="left">
