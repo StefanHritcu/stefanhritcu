@@ -15,15 +15,13 @@ Utilizzo Git, GitHub e Netlify per la gestione e il deployment dei progetti, ded
 ## -----------------------------------------------> Skills <-----------------------------------------------
 - **Scomposizione dei problemi in sotto-problemi** 🔍
 - **ChatGPT** 💬
-- **Attenzione ai minimi dettagli (un problema se hai poco tempo a disposizione !)** 🕵️‍♂️
-- ### Ho dedicato molto spazio alla comprensione della mente e al suo potenziamento attraverso l'allenamento quotidiano: ###
-- **Mentalità algoritmica** 🧠
-- **Risoluzione dei problemi focalizzata** 🎯
-  (capacità di affrontare e risolvere le sfide durante lo sviluppo)
-- **Sviluppo di soluzioni innovative** 🌟
-  (creazione di approcci originali per migliorare il processo di sviluppo)
-- **Ottimizzazione dell'efficienza** ⏱️
-  (miglioramento della produttività e riduzione dei tempi morti)
+- Attenzione ai dettagli 🕵️‍♂️
+- Accessibilità web ♿
+- SEO Basics 🔍
+- Mentalità algoritmica 🧠
+- Risoluzione dei problemi focalizzata 🎯
+- Ottimizzazione dell'efficienza ⏱️
+
 
 <hr/>
 
