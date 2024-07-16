@@ -59,13 +59,13 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 ## 02- **WeatherApi** Progetto Applicazione Meteo effettuando chiamate API a OpewnWeather ##
 
 ### Descrizione: ### 
-WeatherApi è un'app. che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
+WeatherApi è un'app. che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e MOLTO altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
 
 ### Tecnologie utilizzate: ### 
 
 - **Frontend:** React, JavaScript/ES6+, HTML, TAILWIND.CSS
 - **Backend:** / ASSENTE
-- **Deployment:** Netlify (solo lato frontend)
+- **Deployment:** Netlify
 
 ### Links: ### 
 
