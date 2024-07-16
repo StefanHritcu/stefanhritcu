@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td>
-      <section>
-        <img width="200px" height="200px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF6bGx3dHNpMWtndjcxd3R2cm9namZrbDlidXlxbzVoOTRzcXJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Front End Developer">
+     <section>
+        <img width="2400px" height="auto" src="githubImage.png">
       </section>
     </td>
     <td style="padding-left: 20px;">
