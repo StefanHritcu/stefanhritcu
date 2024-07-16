@@ -2,15 +2,12 @@
   <tr>
     <td>
      <section>
-        <img width="2400px" height="auto" src="githubImage.png">
+        <img width="1800px" height="auto" src="githubImage.png">
       </section>
     </td>
     <td style="padding-left: 20px;">
      <p>
        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta dove ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
-      </p>
-      <p>
-       ## -------------> Hard Skills <---------------
       </p>
     </td>
   </tr>
