@@ -33,6 +33,12 @@
 
 ## 01-Progetto Ristorante con Stack MERN ##
 
+<div style="display: flex; justify-content: center;">
+  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
+  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+   <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+</div>
+
 ### Descrizione: ### 
 Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
 
@@ -47,12 +53,6 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 **GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN).
 
 **Link del sito con Netlify:** (https://main--ristorantemern.netlify.app/).
-
-<div style="display: flex; justify-content: center;">
-  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
-  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
-   <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
-</div>
 
 <hr/>
 
