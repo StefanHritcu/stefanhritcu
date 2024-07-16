@@ -6,8 +6,8 @@
       </section>
     </td>
     <td style="padding-left: 20px;">
-      <p>
-        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta con oltre 9 mesi di studio intensivo. Ho acquisito competenze che spaziano da <strong>HTML</strong> e <strong>CSS</strong> ai framework e preprocessori come <strong>Tailwind CSS</strong>, <strong>Bootstrap</strong> e <strong>SCSS</strong>. Ho esperienza in <strong>JavaScript</strong>, con particolare attenzione a <strong>React</strong> e conoscenze di base in <strong>Angular</strong>, implementando <strong>TypeScript</strong> per migliorare la sicurezza dei progetti. Utilizzo <strong>Git</strong>, <strong>GitHub</strong> e <strong>Netlify</strong> per la gestione e il deployment dei progetti, dedicando tempo a progetti personali per ampliare il mio portfolio.
+     <p style="padding-left: 40px padding-rightt: 40px">
+       Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta dove ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
       </p>
     </td>
   </tr>
