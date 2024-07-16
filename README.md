@@ -10,11 +10,12 @@
     </td>
     <td style="padding-left: 20px;">
       <p>
-        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
-        Sono nato in Romania e ho vissuto in diversi paesi europei durante la mia vita:
-- Dall'età di 8 anni fino ai 20 anni ho vissuto in Italia.
-- Dai 20 ai 21 anni ho vissuto in Spagna.
-- Dai 21 anni fino ad oggi (30 anni) vivo in Germania.
+        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. 
+        Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
+        ## - Sono nato in Romania e ho vissuto in diversi paesi europei durante la mia vita:
+        - Dall'età di 8 anni fino ai 20 anni ho vissuto in Italia.
+        - Dai 20 ai 21 anni ho vissuto in Spagna.
+        - Dai 21 anni fino ad oggi (30 anni) vivo in Germania.
       </p>
       <h3>Hard Skills</h3>
      <p align="left">
