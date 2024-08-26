@@ -112,7 +112,7 @@ WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate insere
 Per ulteriori informazioni sui progetti o per parlare di opportunità, puoi contattarmi tramite:
 
 - **LinkedIn:** [Stefan Hritcu](https://www.linkedin.com/in/stefan-hritcu-93b67028a/)
-- **Email:** [shritcu@proton.me](mailto:shritcu@proton.me)
+- **Email:** [shritcu@proton.me](mailto:stefano.94h@gmail.com)
 
 <hr/>
 
