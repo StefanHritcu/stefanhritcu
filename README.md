@@ -16,22 +16,22 @@
       <ul style="list-style-type: none; padding: 0; margin: 0;">
         <!-- Applica stili inline per migliorare l'aspetto dei link -->
         <li style="margin-bottom: 10px;">
-          <a href="#chi-sono" style="text-decoration: none; color: #007BFF; font-weight: bold;">Chi Sono</a>
+          <a href="#chi-sono">Chi Sono</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#esperienza-internazionale" style="text-decoration: none; color: #007BFF; font-weight: bold;">Esperienza Internazionale</a>
+          <a href="#esperienza-internazionale">Esperienza Internazionale</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#hard-skills" style="text-decoration: none; color: #007BFF; font-weight: bold;">Hard Skills</a>
+          <a href="#hard-skills">Hard Skills</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#soft-skills" style="text-decoration: none; color: #007BFF; font-weight: bold;">Soft Skills</a>
+          <a href="#soft-skills">Soft Skills</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#progetti" style="text-decoration: none; color: #007BFF; font-weight: bold;">Progetti</a>
+          <a href="#progetti">Progetti</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#contatti" style="text-decoration: none; color: #007BFF; font-weight: bold;">Contatti</a>
+          <a href="#contatti">Contatti</a>
         </li>
       </ul>
       <hr>
