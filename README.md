@@ -2,12 +2,11 @@
 <h2 align="center">Front End Developer</h2>
 
 <p align="center">
-  <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
 </p><table>
   <tr>
     <td>
       <section>
-        <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
+        <img width="600px" height="auto" src="githubImage.png" alt="Front End Developer">
       </section>
     </td>
     <td style="padding-left: 20px;">
