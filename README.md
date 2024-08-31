@@ -100,13 +100,20 @@ Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi 
   <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
 </div>
 
-Progetto full-stack realizzato in collaborazione online. Mi sono occupato dello sviluppo frontend, mentre Michele ha gestito il backend. Abbiamo affrontato sfide legate all'integrazione tra frontend e backend, superandole grazie a una comunicazione efficace.
+**GitHub Repository/ Codice:** [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
 
-**Tecnologie utilizzate**: React, Tailwind CSS, HTML, SEO (Frontend), Python Django (Backend), Netlify (Deployment)
+**Link del sito con Netlify:** a breve disponibile... (31.08.24).
 
-**GitHub Repository**: [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform)
+#### Descrizione:
+Progetto full-stack realizzato in collaborazione online assieme a un programmatore backedn. Mi sono occupato dello sviluppo frontend dove mi sono occupato nella realizzazione del sito web e affrontare sfide legate all'integrazione tra frontend e backend comprendendo che tipo di dato bisognava passarci tra me e il backend superandole grazie a una comunicazione efficace.
 
-**Demo**: Immagini dimostrative disponibili [qui](soundPC.png), [qui](soundTablet.png), e [qui](soundSmart.png).
+#### Tecnologie utilizzate:
+
+- **Frontend (io):** React, HTML CSS
+- **Backend (Michele):** Python, Django
+- **Deployment:** Netlify (solo lato frontend)
+
+<hr/>
 
 ### 02 - **WeatherApi** (Luglio 2024)
 
