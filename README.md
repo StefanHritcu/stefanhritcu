@@ -107,6 +107,29 @@ WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate insere
 
 ---
 
+### 03 - **OpenSoundHub** Progetto full-stack realizzato in comune con un altra persona online
+
+<div style="display: flex; justify-content: center;">
+  <img src="soundPC - Copia.png" alt="Demo Progetto Weather Api" style="width: 45%; margin-right: 10px;">
+  <img src="weatherTablet.png" alt="Demo Progetto Weather Api" style="width: 26%; margin-left: 10px;">
+  <img src="weatherMobile.png" alt="Demo Progetto Weather Api" style="width: 26%; margin-left: 10px;">
+</div>
+
+**GitHub Repository/ Codice:** [Progetto WeatherApi](https://github.com/StefanHritcu/WeatherApi) **Qui troverai la descrizione completa**
+
+**Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
+
+#### Descrizione:
+WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e molto altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
+
+#### Tecnologie utilizzate:
+
+- **Frontend:** React, JavaScript/ES6+, HTML, TAILWIND.CSS
+- **Backend:** / Assente
+- **Deployment:** Netlify
+
+---
+
 ## -----------------------------------------------> Contatti <-----------------------------------------------
 
 Per ulteriori informazioni sui progetti o per parlare di opportunità, puoi contattarmi tramite:
