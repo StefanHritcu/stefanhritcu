@@ -1,111 +1,95 @@
 <h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
 <h2 align="center">Front End Developer</h2>
 
-<table>
-  <tr>
-    <td>
-      <section>
-        <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
-      </section>
-    </td>
-    <td style="padding-left: 20px;">
-      <p>
-        Mi chiamo Stefan Hritcu e sono uno sviluppatore web autodidatta. Ho intrapreso questo percorso di studi con passione e dedizione, deciso a trasformare la mia curiosità per il web in una carriera professionale. 
-        Con oltre 9 mesi di studio intensivo, ho sviluppato un forte interesse per il frontend development, dedicandomi a progetti personali per mettere in pratica le competenze acquisite e ampliare il mio portfolio.
-      </p>
-<p>
-  <h3>- Sono nato in Romania e ho vissuto in diversi paesi europei durante la mia vita:</h3>
-    - Dall'età di 8 anni fino ai 20 anni ho vissuto in Italia.<br>
-    - Dai 20 ai 21 anni ho vissuto in Spagna.<br>
-    - Dai 21 anni fino a fine luglio 2024 ho vissuto in Germania.
-  <hr>
- ⬇️⬇️⬇️⬇️ PRESTARE ATTENZIONE ⬇️⬇️⬇️⬇️
-     <hr>
-    - Da agosto 2024 in Italia, Bracciano(RM) con il massimo focus di iniziare la prima esperienza lavorativa come programmatore.
+<p align="center">
+  <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
 </p>
-      <h3>Hard Skills</h3>
-     <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40" width="40" style="vertical-align: text-bottom;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" height="40" width="40"/>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40" style="vertical-align: text-bottom;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40" style="vertical-align: text-bottom;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" style="vertical-align: text-bottom;">
-</p>
-      </p>
-    </td>
-  </tr>
-</table>
 
-<hr/>
+<p align="center">Mi chiamo Stefan Hritcu, un sviluppatore web autodidatta con una forte passione per il frontend development. Ho dedicato oltre 9 mesi a studi intensivi e progetti pratici, trasformando la mia curiosità per il web in una vera e propria carriera professionale.</p>
+
+---
+
+## 📋 Indice
+
+- [Chi Sono](#chi-sono)
+- [Esperienza Internazionale](#esperienza-internazionale)
+- [Hard Skills](#hard-skills)
+- [Soft Skills](#soft-skills)
+- [Progetti](#progetti)
+- [Contatti](#contatti)
+
+---
+
+## Chi Sono
+
+Sono un Frontend Developer con esperienza nello sviluppo di applicazioni web interattive e responsive. Ho una solida base in HTML, CSS, JavaScript e framework moderni come React e Angular. Ho sviluppato una serie di progetti personali per mettere in pratica le mie competenze e costruire un portfolio diversificato.
+
+---
+
+## Esperienza Internazionale
+
+Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi ha permesso di sviluppare una mentalità aperta e adattabile:
+
+- **Italia**: Dall'età di 8 ai 20 anni
+- **Spagna**: Dai 20 ai 21 anni
+- **Germania**: Dai 21 anni fino a luglio 2024
+- **Italia (Bracciano, RM)**: Da agosto 2024 con il focus di iniziare la mia prima esperienza lavorativa come programmatore
+
+---
+
+## Hard Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
+</p>
+
+---
 
 ## Soft Skills
 
-- **(PNL) Corso Practitioner in Programmazione Neuro Linguistica**
-- **ChatGPT**
-- **Madrelingua: rumeno e italiano; Ottime conoscenze: tedesco e spagnolo; Conoscenze di base: inglese e francese**
-- **Esperienze di adattamento acquisite in contesti stranieri**
-- **Capacità di ascoltare, comprendere e risolvere compiti lavorativi assegnati in contesti diversi e internazionali**
-- **Scomposizione dei problemi in micro-problemi**
-- **Mentalità algoritmica**
-- **Esperienza lavorativa in diversi paesi: Romania, Germania, Italia, Francia e Spagna**
+- **PNL**: Corso Practitioner in Programmazione Neuro Linguistica
+- **Utilizzo di ChatGPT** per migliorare la produttività e risolvere problemi di sviluppo
+- **Lingue**: Rumeno e Italiano (madrelingua), Tedesco e Spagnolo (ottime conoscenze), Inglese e Francese (conoscenze di base)
+- **Esperienza in ambienti internazionali** e capacità di adattamento
+- **Pensiero critico e problem solving**: Capacità di scomporre problemi complessi in parti gestibili
+- **Mentalità algoritmica** per l'approccio alla risoluzione dei problemi
+- **Esperienza lavorativa internazionale**: Romania, Germania, Italia, Francia e Spagna
 
-<hr/>
+---
 
-## ---------------------------------------------> Progetti <---------------------------------------------
+## Progetti
 
+### 03 - **OpenSoundHub** (Agosto 2024)
 
-### 03 - **OpenSoundHub** Progetto full-stack realizzato in comune con un altra persona online (Agosto 2024)
+Progetto full-stack realizzato in collaborazione online. Mi sono occupato dello sviluppo frontend, mentre Michele ha gestito il backend. Abbiamo affrontato sfide legate all'integrazione tra frontend e backend, superandole grazie a una comunicazione efficace.
 
-<div style="display: flex; justify-content: center;">
-  <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
-  <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
-  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
-</div>
+**Tecnologie utilizzate**: React, Tailwind CSS, HTML, SEO (Frontend), Python Django (Backend), Netlify (Deployment)
 
-**GitHub Repository/ Codice:** (https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
+**GitHub Repository**: [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform)
 
-**Link del sito con Netlify:** In corso...
+**Demo**: Immagini dimostrative disponibili [qui](soundPC.png), [qui](soundTablet.png), e [qui](soundSmart.png).
 
-#### Descrizione:
-OpenSoundHub è un'applicazione full-stack a cui ho lavorato occupandomi della parte frontend, mentre Michele si è dedicato allo sviluppo del backend. Abbiamo collaborato strettamente per creare un'applicazione completa, simulando una collaborazione professionale a 360 gradi. Le difficoltà sono emerse soprattutto nel collegare l'endpoint della prima funzionalità, quando ci siamo resi conto delle incomprensioni che possono sorgere tra il backend e il frontend quando si integrano insieme. Tuttavia, grazie alla comunicazione efficace e alla collaborazione, siamo riusciti a superare questi ostacoli e a far funzionare correttamente l'applicazione.
-#### Tecnologie utilizzate:
+### 02 - **WeatherApi** (Luglio 2024)
 
-- **Frontend:** React, Tailwind, HTML semantico, SEO
-- **Backend:** / Python Django
-- **Deployment:** Netlify
+Un'applicazione per visualizzare le previsioni meteo basate su dati in tempo reale ottenuti tramite le API di OpenWeather.
 
-- ---
+**Tecnologie utilizzate**: React, JavaScript, Tailwind CSS, Netlify (Deployment)
 
-### 02 - **WeatherApi** Progetto Applicazione Meteo (Luglio 2024)
+**GitHub Repository**: [WeatherApi](https://github.com/StefanHritcu/WeatherApi)
 
-<div style="display: flex; justify-content: center;">
-  <img src="weatherLaptop.png" alt="Demo Progetto Weather Api" style="width: 45%; margin-right: 10px;">
-  <img src="weatherTablet.png" alt="Demo Progetto Weather Api" style="width: 26%; margin-left: 10px;">
-  <img src="weatherMobile.png" alt="Demo Progetto Weather Api" style="width: 26%; margin-left: 10px;">
-</div>
-
-**GitHub Repository/ Codice:** [Progetto WeatherApi](https://github.com/StefanHritcu/WeatherApi) **Qui troverai la descrizione completa**
-
-**Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
-
-#### Descrizione:
-WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e molto altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
-
-#### Tecnologie utilizzate:
-
-- **Frontend:** React, JavaScript/ES6+, HTML, TAILWIND.CSS
-- **Backend:** / Assente
-- **Deployment:** Netlify
-
-- ---
+**Live Demo**: [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/)
 
 - - ### 01 - Progetto Ristorante con Stack MERN  (Maggio 2024)
 
