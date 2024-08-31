@@ -2,7 +2,7 @@
 <h2 align="center">Front End Developer</h2>
 
 <p align="center"></p>
-<table>
+<table align="center">
   <tr>
     <td>
       <section>
