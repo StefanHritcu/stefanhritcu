@@ -115,7 +115,7 @@ WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate insere
   <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
 </div>
 
-**GitHub Repository/ Codice:** [Progetto OpenSoundHub]([https://github.com/StefanHritcu/WeatherApi](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform)) **Qui troverai la descrizione completa**
+**GitHub Repository/ Codice:** (https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
 
 **Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
 
