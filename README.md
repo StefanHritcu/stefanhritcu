@@ -1,26 +1,40 @@
 <h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
 <h2 align="center">Front End Developer</h2>
 
-<p align="center">
-</p><table>
+<p align="center"></p>
+<table>
   <tr>
     <td>
       <section>
-        <img width="600px" height="auto" src="githubImage.png" alt="Front End Developer">
+        <!-- Diminuisce la larghezza dell'immagine -->
+        <img width="200px" height="auto" src="githubImage.png" alt="Front End Developer">
       </section>
     </td>
     <td style="padding-left: 20px;">
-## 📋 Indice
-
-- [Chi Sono](#chi-sono)
-- [Esperienza Internazionale](#esperienza-internazionale)
-- [Hard Skills](#hard-skills)
-- [Soft Skills](#soft-skills)
-- [Progetti](#progetti)
-- [Contatti](#contatti)
-
----
- </p>
+      <h2>📋 Indice</h2>
+      <!-- Utilizza una lista non ordinata per i link -->
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <!-- Applica stili inline per migliorare l'aspetto dei link -->
+        <li style="margin-bottom: 10px;">
+          <a href="#chi-sono" style="text-decoration: none; color: #007BFF; font-weight: bold;">Chi Sono</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+          <a href="#esperienza-internazionale" style="text-decoration: none; color: #007BFF; font-weight: bold;">Esperienza Internazionale</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+          <a href="#hard-skills" style="text-decoration: none; color: #007BFF; font-weight: bold;">Hard Skills</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+          <a href="#soft-skills" style="text-decoration: none; color: #007BFF; font-weight: bold;">Soft Skills</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+          <a href="#progetti" style="text-decoration: none; color: #007BFF; font-weight: bold;">Progetti</a>
+        </li>
+        <li style="margin-bottom: 10px;">
+          <a href="#contatti" style="text-decoration: none; color: #007BFF; font-weight: bold;">Contatti</a>
+        </li>
+      </ul>
+      <hr>
     </td>
   </tr>
 </table>
