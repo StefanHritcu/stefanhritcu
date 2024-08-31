@@ -96,7 +96,7 @@ Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi 
 
 <div style="display: flex; justify-content: center;">
   <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
-  <img src="soundTabler.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+  <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
   <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 18%; margin-left: 10px;">
 </div>
 
@@ -109,6 +109,12 @@ Progetto full-stack realizzato in collaborazione online. Mi sono occupato dello 
 **Demo**: Immagini dimostrative disponibili [qui](soundPC.png), [qui](soundTablet.png), e [qui](soundSmart.png).
 
 ### 02 - **WeatherApi** (Luglio 2024)
+
+<div style="display: flex; justify-content: center;">
+  <img src="weatherLaptop.png" alt="Demo Progetto WeatherApi" style="width: 45%; margin-right: 10px;">
+  <img src="weatherTablet.png" alt="Demo Progetto WeatherApi" style="width: 26%; margin-left: 10px;">
+  <img src="weatherMobile.png" alt="Demo Progetto WeatherApi" style="width: 26%; margin-left: 10px;">
+</div>
 
 Un'applicazione per visualizzare le previsioni meteo basate su dati in tempo reale ottenuti tramite le API di OpenWeather.
 
