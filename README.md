@@ -3,12 +3,14 @@
 
 <p align="center">
   <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
-</p>
-
-<p align="center">Mi chiamo Stefan Hritcu, un sviluppatore web autodidatta con una forte passione per il frontend development. Ho dedicato oltre 9 mesi a studi intensivi e progetti pratici, trasformando la mia curiosità per il web in una vera e propria carriera professionale.</p>
-
----
-
+</p><table>
+  <tr>
+    <td>
+      <section>
+        <img width="1200px" height="auto" src="githubImage.png" alt="Front End Developer">
+      </section>
+    </td>
+    <td style="padding-left: 20px;">
 ## 📋 Indice
 
 - [Chi Sono](#chi-sono)
@@ -17,6 +19,12 @@
 - [Soft Skills](#soft-skills)
 - [Progetti](#progetti)
 - [Contatti](#contatti)
+
+---
+ </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
