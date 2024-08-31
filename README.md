@@ -97,7 +97,7 @@ Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi 
 <div style="display: flex; justify-content: center;">
   <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
   <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
-  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 18%; margin-left: 10px;">
+  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
 </div>
 
 Progetto full-stack realizzato in collaborazione online. Mi sono occupato dello sviluppo frontend, mentre Michele ha gestito il backend. Abbiamo affrontato sfide legate all'integrazione tra frontend e backend, superandole grazie a una comunicazione efficace.
@@ -116,13 +116,20 @@ Progetto full-stack realizzato in collaborazione online. Mi sono occupato dello 
   <img src="weatherMobile.png" alt="Demo Progetto WeatherApi" style="width: 26%; margin-left: 10px;">
 </div>
 
+**GitHub Repository/ Codice:** [WeatherApi](https://github.com/StefanHritcu/WeatherApi) **Qui troverai la descrizione completa**
+
+**Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
+
+#### Descrizione:
 Un'applicazione per visualizzare le previsioni meteo basate su dati in tempo reale ottenuti tramite le API di OpenWeather.
 
-**Tecnologie utilizzate**: React, JavaScript, Tailwind CSS, Netlify (Deployment)
+#### Tecnologie utilizzate:
 
-**GitHub Repository**: [WeatherApi](https://github.com/StefanHritcu/WeatherApi)
+- **Frontend:** React, JavaScript, HTML, CSS/TAILWIND.CSS
+- **Backend:** Assente.
+- **Deployment:** Netlify (solo lato frontend)
 
-**Live Demo**: [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/)
+<hr/>
 
 - - ### 01 - Progetto Ristorante con Stack MERN  (Maggio 2024)
 
