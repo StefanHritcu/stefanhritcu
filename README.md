@@ -72,15 +72,14 @@
 
 **GitHub Repository/ Codice:** (https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
 
-**Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
+**Link del sito con Netlify:** In corso...
 
 #### Descrizione:
-WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e molto altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
-
+OpenSoundHub è un'applicazione full-stack a cui ho lavorato occupandomi della parte frontend, mentre Michele si è dedicato allo sviluppo del backend. Abbiamo collaborato strettamente per creare un'applicazione completa, simulando una collaborazione professionale a 360 gradi. Le difficoltà sono emerse soprattutto nel collegare l'endpoint della prima funzionalità, quando ci siamo resi conto delle incomprensioni che possono sorgere tra il backend e il frontend quando si integrano insieme. Tuttavia, grazie alla comunicazione efficace e alla collaborazione, siamo riusciti a superare questi ostacoli e a far funzionare correttamente l'applicazione.
 #### Tecnologie utilizzate:
 
-- **Frontend:** React, JavaScript/ES6+, HTML, TAILWIND.CSS
-- **Backend:** / Assente
+- **Frontend:** React, Tailwind, HTML semantico, SEO
+- **Backend:** / Python Django
 - **Deployment:** Netlify
 
 - ---
