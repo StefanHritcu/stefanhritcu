@@ -61,28 +61,29 @@
 
 ## ---------------------------------------------> Progetti <---------------------------------------------
 
-### 01 - Progetto Ristorante con Stack MERN
+
+### 03 - **OpenSoundHub** Progetto full-stack realizzato in comune con un altra persona online
 
 <div style="display: flex; justify-content: center;">
-  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
-  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
-  <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+  <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
+  <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
 </div>
 
-**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN) **Qui troverai la descrizione completa**
+**GitHub Repository/ Codice:** (https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
 
-**Link del sito con Netlify:** [ristorantemern.netlify.app](https://main--ristorantemern.netlify.app/).
+**Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
 
 #### Descrizione:
-Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
+WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e molto altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
 
 #### Tecnologie utilizzate:
 
-- **Frontend:** React, JavaScript/ES6+, HTML, CSS/TAILWIND.CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Deployment:** Netlify (solo lato frontend)
+- **Frontend:** React, JavaScript/ES6+, HTML, TAILWIND.CSS
+- **Backend:** / Assente
+- **Deployment:** Netlify
 
-<hr/>
+- ---
 
 ### 02 - **WeatherApi** Progetto Applicazione Meteo
 
@@ -105,28 +106,30 @@ WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate insere
 - **Backend:** / Assente
 - **Deployment:** Netlify
 
----
+- ---
 
-### 03 - **OpenSoundHub** Progetto full-stack realizzato in comune con un altra persona online
+- - ### 01 - Progetto Ristorante con Stack MERN
 
 <div style="display: flex; justify-content: center;">
-  <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
-  <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
-  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
+  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+  <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
 </div>
 
-**GitHub Repository/ Codice:** (https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
+**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Progetto-Ristorante-Stack-MERN) **Qui troverai la descrizione completa**
 
-**Link del sito con Netlify:** [weather-api-by-hritcu.netlify.app](https://weather-api-by-hritcu.netlify.app/).
+**Link del sito con Netlify:** [ristorantemern.netlify.app](https://main--ristorantemern.netlify.app/).
 
 #### Descrizione:
-WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate inserendo il nome di una città. Utilizza le API di OpenWeather per offrire dati aggiornati su temperatura, indice UV, pressione e molto altro, garantendo previsioni accurate e in tempo reale tramite un'interfaccia user-friendly.
+Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (MongoDB, Express.js, React, Node.js). I clienti possono effettuare prenotazioni online, mentre i dipendenti e il proprietario del ristorante hanno accesso a una dashboard per gestire le prenotazioni e altre funzionalità operative.
 
 #### Tecnologie utilizzate:
 
-- **Frontend:** React, JavaScript/ES6+, HTML, TAILWIND.CSS
-- **Backend:** / Assente
-- **Deployment:** Netlify
+- **Frontend:** React, JavaScript/ES6+, HTML, CSS/TAILWIND.CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Deployment:** Netlify (solo lato frontend)
+
+<hr/>
 
 ---
 
