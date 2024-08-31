@@ -94,6 +94,12 @@ Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi 
 
 ### 03 - **OpenSoundHub** (Agosto 2024)
 
+<div style="display: flex; justify-content: center;">
+  <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
+  <img src="soundTabler.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 18%; margin-left: 10px;">
+</div>
+
 Progetto full-stack realizzato in collaborazione online. Mi sono occupato dello sviluppo frontend, mentre Michele ha gestito il backend. Abbiamo affrontato sfide legate all'integrazione tra frontend e backend, superandole grazie a una comunicazione efficace.
 
 **Tecnologie utilizzate**: React, Tailwind CSS, HTML, SEO (Frontend), Python Django (Backend), Netlify (Deployment)
