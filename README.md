@@ -62,7 +62,7 @@
 ## ---------------------------------------------> Progetti <---------------------------------------------
 
 
-### 03 - **OpenSoundHub** Progetto full-stack realizzato in comune con un altra persona online
+### 03 - **OpenSoundHub** Progetto full-stack realizzato in comune con un altra persona online (Agosto 2024)
 
 <div style="display: flex; justify-content: center;">
   <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
@@ -85,7 +85,7 @@ WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate insere
 
 - ---
 
-### 02 - **WeatherApi** Progetto Applicazione Meteo
+### 02 - **WeatherApi** Progetto Applicazione Meteo (Luglio 2024)
 
 <div style="display: flex; justify-content: center;">
   <img src="weatherLaptop.png" alt="Demo Progetto Weather Api" style="width: 45%; margin-right: 10px;">
@@ -108,7 +108,7 @@ WeatherApi è un'applicazione che fornisce informazioni meteo dettagliate insere
 
 - ---
 
-- - ### 01 - Progetto Ristorante con Stack MERN
+- - ### 01 - Progetto Ristorante con Stack MERN  (Maggio 2024)
 
 <div style="display: flex; justify-content: center;">
   <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
