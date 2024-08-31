@@ -168,7 +168,7 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 Per ulteriori informazioni sui progetti o per parlare di opportunità, puoi contattarmi tramite:
 
 - **LinkedIn:** [Stefan Hritcu](https://www.linkedin.com/in/stefan-hritcu-93b67028a/)
-- **Email:** [shritcu@proton.me](mailto:stefano.94h@gmail.com)
+- **Email:** [stefan.94h@gmail.com](mailto:stefano.94h@gmail.com)
 - **Facebook:** https://www.facebook.com/profile.php?id=61563101911367
 
 <hr/>
