@@ -43,7 +43,7 @@
 
 ## Chi Sono
 
-Sono un Frontend Developer con esperienza nello sviluppo di applicazioni web interattive e responsive. Ho una solida base in HTML, CSS, JavaScript e framework moderni come React e Angular. Ho sviluppato una serie di progetti personali per mettere in pratica le mie competenze e costruire un portfolio diversificato.
+Sono un Frontend Developer autodidatta con circa un anno di esperienza nello sviluppo di applicazioni web interattive e responsive. Dopo aver vissuto in Germania, sono tornato in Italia ad agosto 2024 per iniziare la mia prima esperienza lavorativa come sviluppatore frontend. Durante il mio percorso di apprendimento, ho collaborato a progetti open source online, lavorando con altri sviluppatori e affinando le mie competenze. Ho recentemente trovato il mio primo cliente grazie a un approccio strutturato per raccogliere informazioni dettagliate sulle sue esigenze, e attualmente sono impegnato nella creazione del suo sito web, dedicandomi con passione per offrire la soluzione migliore.
 
 ---
 
@@ -143,6 +143,7 @@ Per ulteriori informazioni sui progetti o per parlare di opportunità, puoi cont
 
 - **LinkedIn:** [Stefan Hritcu](https://www.linkedin.com/in/stefan-hritcu-93b67028a/)
 - **Email:** [shritcu@proton.me](mailto:stefano.94h@gmail.com)
+- **Facebook:** https://www.facebook.com/profile.php?id=61563101911367
 
 <hr/>
 
