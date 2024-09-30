@@ -2,6 +2,7 @@
 <h2 align="center">Front End Developer</h2>
 ![Profile Views](https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat)
 
+
 <p align="center"></p>
 <table align="center">
   <tr>
