@@ -1,8 +1,8 @@
 <h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
 <h2 align="center">Front End Developer</h2>
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat)
+<img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="50">
+
 
 
 <p align="center"></p>
