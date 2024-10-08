@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
-<h2 align="center">Front End Developer</h2>
+<h2 align="center">Junior Front End Developer</h2>
 
 <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="300" height="auto">
 
@@ -23,9 +23,6 @@
           <a href="#chi-sono">Chi Sono</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#esperienza-internazionale">Esperienza Internazionale</a>
-        </li>
-        <li style="margin-bottom: 10px;">
           <a href="#hard-skills">Hard Skills</a>
         </li>
         <li style="margin-bottom: 10px;">
@@ -47,18 +44,7 @@
 
 ## Chi Sono
 
-Sono un Frontend Developer autodidatta con circa un anno di esperienza nello sviluppo di applicazioni web interattive e responsive. Dopo aver vissuto in Germania, sono tornato in Italia ad agosto 2024 per iniziare la mia prima esperienza lavorativa come sviluppatore frontend. Durante il mio percorso di apprendimento, ho collaborato a progetti open source online, lavorando con altri sviluppatori e affinando le mie competenze. Ho recentemente trovato il mio primo cliente grazie a un approccio strutturato per raccogliere informazioni dettagliate sulle sue esigenze, e attualmente sono impegnato nella creazione del suo sito web, dedicandomi con passione per offrire la soluzione migliore.
-
----
-
-## Esperienza Internazionale
-
-Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi ha permesso di sviluppare una mentalità aperta e adattabile:
-
-- **Italia**: Dall'età di 8 ai 20 anni
-- **Spagna**: Dai 20 ai 21 anni
-- **Germania**: Dai 21 anni fino a luglio 2024
-- **Italia (Bracciano, RM)**: Da agosto 2024 con il focus di iniziare la mia prima esperienza lavorativa come programmatore
+Sono un Frontend Developer autodidatta con circa un anno di esperienza nello sviluppo di applicazioni web interattive e responsive. Dopo aver vissuto in Germania, sono tornato in Italia settembre 2024 per iniziare la mia prima esperienza lavorativa come sviluppatore frontend. Durante il mio percorso di apprendimento, ho collaborato a progetti open source online, lavorando con altri sviluppatori e affinando le mie competenze. Ho recentemente trovato il mio primo cliente grazie a un approccio strutturato per raccogliere informazioni dettagliate sulle sue esigenze, e attualmente sono impegnato nella creazione del suo sito web, dedicandomi con passione per offrire la soluzione migliore.
 
 ---
 
@@ -87,7 +73,6 @@ Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi 
 - **PNL**: Corso Practitioner in Programmazione Neuro Linguistica
 - **Utilizzo di ChatGPT** per migliorare la produttività e risolvere problemi di sviluppo
 - **Lingue**: Rumeno e Italiano (madrelingua), Tedesco e Spagnolo (ottime conoscenze), Inglese e Francese (conoscenze di base)
-- **Esperienza in ambienti internazionali** e capacità di adattamento
 - **Pensiero critico e problem solving**: Capacità di scomporre problemi complessi in parti gestibili
 - **Mentalità algoritmica** per l'approccio alla risoluzione dei problemi
 - **Esperienza lavorativa internazionale**: Romania, Germania, Italia, Francia e Spagna
@@ -95,6 +80,29 @@ Ho avuto il privilegio di vivere e lavorare in diversi paesi europei, il che mi 
 ---
 
 ## Progetti
+
+### 04 - **OpenSoundHub** (Agosto 2024)
+
+<div style="display: flex; justify-content: center;">
+  <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
+  <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+</div>
+
+**GitHub Repository/ Codice:** [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
+
+**Link del sito con Netlify:** a breve disponibile... (31.08.24).
+
+#### Descrizione:
+Progetto full-stack realizzato in collaborazione online assieme a un programmatore backedn. Mi sono occupato dello sviluppo frontend dove mi sono occupato nella realizzazione del sito web e affrontare sfide legate all'integrazione tra frontend e backend comprendendo che tipo di dato bisognava passarci tra me e il backend superandole grazie a una comunicazione efficace.
+
+#### Tecnologie utilizzate:
+
+- **Frontend (io):** React, HTML CSS
+- **Backend (Michele):** Python, Django
+- **Deployment:** Netlify (solo lato frontend)
+
+<hr/>
 
 ### 03 - **OpenSoundHub** (Agosto 2024)
 
