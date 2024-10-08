@@ -114,7 +114,7 @@ Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere
 
 **GitHub Repository/ Codice:** [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
 
-**Link del sito con Netlify:** [OpenSoundHub](https://main--snazzy-dango-8024b2.netlify.app/)
+**Link del sito con Netlify:** https://main--snazzy-dango-8024b2.netlify.app/
 
 #### Descrizione:
 Progetto full-stack realizzato in collaborazione online assieme a un programmatore backedn. Mi sono occupato dello sviluppo frontend dove mi sono occupato nella realizzazione del sito web e affrontare sfide legate all'integrazione tra frontend e backend comprendendo che tipo di dato bisognava passarci tra me e il backend superandole grazie a una comunicazione efficace.
