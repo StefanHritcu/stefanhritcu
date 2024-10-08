@@ -52,7 +52,7 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5915/5915618.png" alt="ChatGPT" height="40" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/OpenAI_Logo.svg" alt="OpenAI" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
