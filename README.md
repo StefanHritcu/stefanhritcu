@@ -81,12 +81,12 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 ## Progetti
 
-### 04 - **OpenSoundHub** (Agosto 2024)
+### 04 - **Portfolio** (settembre 2024) NB: work in progress...
 
 <div style="display: flex; justify-content: center;">
-  <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
-  <img src="soundTablet.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
-  <img src="soundSmart.png" alt="Demo Progetto OpenSoundHub" style="width: 26%; margin-left: 10px;">
+  <img src="portfolio-laptop.png" alt="Demo Portfolio laptop" style="width: 45%; margin-right: 10px;">
+  <img src="portfolio-tablet.png" alt="Demo Portfolio tablet" style="width: 26%; margin-left: 10px;">
+  <img src="portfolio-mobile.png" alt="Demo Portfolio mobile" style="width: 26%; margin-left: 10px;">
 </div>
 
 **GitHub Repository/ Codice:** [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
