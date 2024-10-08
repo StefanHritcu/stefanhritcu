@@ -81,7 +81,7 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 ## Progetti
 
-### 04 - **Portfolio** (settembre 2024) NB: work in progress...
+### 04 - **Personal PORTFOLIO** (settembre 2024) NB: work in progress...
 
 <div style="display: flex; justify-content: center;">
   <img src="portfolio-laptop.png" alt="Demo Portfolio laptop" style="width: 45%; margin-right: 10px;">
@@ -89,18 +89,18 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
   <img src="portfolio-mobile.png" alt="Demo Portfolio mobile" style="width: 26%; margin-left: 10px;">
 </div>
 
-**GitHub Repository/ Codice:** [OpenSoundHub](https://github.com/StefanHritcu/OpenSoundHub-Collaborative-Full-Stack-Audio-Processing-Platform) **Qui troverai la descrizione completa**
+**GitHub Repository/ Codice:** [Personal PORTFOLIO](https://github.com/StefanHritcu/Portfolio) **Qui troverai la descrizione completa**
 
 **Link del sito con Netlify:** a breve disponibile... (31.08.24).
 
 #### Descrizione:
-Progetto full-stack realizzato in collaborazione online assieme a un programmatore backedn. Mi sono occupato dello sviluppo frontend dove mi sono occupato nella realizzazione del sito web e affrontare sfide legate all'integrazione tra frontend e backend comprendendo che tipo di dato bisognava passarci tra me e il backend superandole grazie a una comunicazione efficace.
+Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere in mostra le mie competenze tecniche e la mia esperienza nel campo dello sviluppo web. Ho costruito l'intera interfaccia utilizzando le tecnologie più moderne e ottimizzate, come React, per garantire un'esperienza utente fluida, veloce e reattiva. Il progetto riflette la mia attenzione alla creazione di interfacce utente intuitive e accattivanti, combinando design minimalista e funzionalità avanzate.
 
 #### Tecnologie utilizzate:
 
-- **Frontend (io):** React, HTML CSS
-- **Backend (Michele):** Python, Django
-- **Deployment:** Netlify (solo lato frontend)
+- **Frontend (io):** React, Bootstrap
+- **Backend:** Assente
+- **Deployment:** Netlify
 
 <hr/>
 
