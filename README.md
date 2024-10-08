@@ -81,7 +81,7 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 ## Progetti
 
-### 04 - **PORTFOLIO** (settembre 2024) NB: work in progress...
+### 05 - **PORTFOLIO** (settembre 2024) NB: work in progress...
 
 <div style="display: flex; justify-content: center;">
   <img src="portfolio-laptop.png" alt="Demo Portfolio laptop" style="width: 45%; margin-right: 10px;">
@@ -104,7 +104,7 @@ Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere
 
 <hr/>
 
-### 03 - **OpenSoundHub** (Agosto 2024)
+### 04 - **OpenSoundHub** (Agosto 2024)
 
 <div style="display: flex; justify-content: center;">
   <img src="soundPC.png" alt="Demo Progetto OpenSoundHub" style="width: 45%; margin-right: 10px;">
@@ -127,7 +127,7 @@ Progetto full-stack realizzato in collaborazione online assieme a un programmato
 
 <hr/>
 
-### 02 - **WeatherApi** (Luglio 2024)
+### 03 - **WeatherApi** (Luglio 2024)
 
 <div style="display: flex; justify-content: center;">
   <img src="weatherLaptop.png" alt="Demo Progetto WeatherApi" style="width: 45%; margin-right: 10px;">
@@ -150,7 +150,7 @@ Un'applicazione per visualizzare le previsioni meteo basate su dati in tempo rea
 
 <hr/>
 
-- - ### 01 - Progetto Ristorante con Stack MERN  (Maggio 2024)
+- - ### 02 - Progetto Ristorante con Stack MERN  (Maggio 2024)
 
 <div style="display: flex; justify-content: center;">
   <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
@@ -169,6 +169,28 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 
 - **Frontend:** React, JavaScript/ES6+, HTML, CSS/TAILWIND.CSS
 - **Backend:** Node.js, Express.js, MongoDB
+- **Deployment:** Netlify (solo lato frontend)
+
+
+- - ### 01 - Games App (febbraio 2024)
+
+<div style="display: flex; justify-content: center;">
+  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
+  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+  <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+</div>
+
+**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Games-site-REACT) **Qui troverai la descrizione completa**
+
+**Link del sito con Netlify:** https://stefanhritcu.github.io/Games-site-REACT/
+
+#### Descrizione:
+Progetto GAMES creato con Next.js in lingua rumena. Il sito include due giochi: Tris (Tic Tac Toe) e Forza 4, con la possibilità di creare un'icona personalizzata e visualizzare una classifica con i punti. Redux è stato ampiamente utilizzato per la gestione dello stato e delle funzionalità interattive.
+
+#### Tecnologie utilizzate:
+
+- **Frontend:** Next.js, Redux, Tailwind CSS and FIGMA
+- **Backend:** assente
 - **Deployment:** Netlify (solo lato frontend)
 
 <hr/>
