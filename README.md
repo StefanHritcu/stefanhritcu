@@ -91,7 +91,7 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 **GitHub Repository/ Codice:** [PORTFOLIO](https://github.com/StefanHritcu/Portfolio) **Qui troverai la descrizione completa**
 
-**Link del sito con Netlify:** a breve disponibile... (31.08.24).
+**Link del sito con Netlify:** a breve disponibile... (08.10.24).
 
 #### Descrizione:
 Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere in mostra le mie competenze tecniche e la mia esperienza nel campo dello sviluppo web. Ho costruito l'intera interfaccia utilizzando le tecnologie più moderne e ottimizzate, come React, per garantire un'esperienza utente fluida, veloce e reattiva. Il progetto riflette la mia attenzione alla creazione di interfacce utente intuitive e accattivanti, combinando design minimalista e funzionalità avanzate.
