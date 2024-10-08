@@ -171,16 +171,17 @@ Un'applicazione per la gestione di un ristorante sviluppata con lo stack MERN (M
 - **Backend:** Node.js, Express.js, MongoDB
 - **Deployment:** Netlify (solo lato frontend)
 
+<hr/>
 
 - - ### 01 - Games App (febbraio 2024)
 
 <div style="display: flex; justify-content: center;">
-  <img src="mernImg.png" alt="Demo Progetto Ristorante" style="width: 45%; margin-right: 10px;">
-  <img src="tabletMERN.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
-  <img src="ristoranteMibile.png" alt="Demo Progetto Ristorante" style="width: 26%; margin-left: 10px;">
+  <img src="gameLaptop.png" alt="Demo Progetto GAME laptop" style="width: 45%; margin-right: 10px;">
+  <img src="gameTablet.png" alt="Demo Progetto GAME tablet" style="width: 26%; margin-left: 10px;">
+  <img src="gameSmart.png" alt="Demo Progetto GAME mobile" style="width: 26%; margin-left: 10px;">
 </div>
 
-**GitHub Repository/ Codice:** [Progetto Ristorante Stack MERN](https://github.com/StefanHritcu/Games-site-REACT) **Qui troverai la descrizione completa**
+**GitHub Repository/ Codice:** [Progetto GAMES](https://github.com/StefanHritcu/Games-site-REACT) **Qui troverai la descrizione completa**
 
 **Link del sito con Netlify:** https://stefanhritcu.github.io/Games-site-REACT/
 
