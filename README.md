@@ -52,14 +52,7 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40"/>
-  
-<img src="https://cdn-icons-png.flaticon.com/512/9474/9474893.png" alt="ChatGPT" height="40" width="40"/>
-<img src="https://img.icons8.com/color/512/chatgpt.png" alt="ChatGPT" height="40" width="40"/>
-<img src="https://png.pngtree.com/png-clipart/20210401/original/pngtree-chatgpt-logo-vector-png-image_5472738.jpg" alt="ChatGPT" height="40" width="40"/>
-<img src="https://img.freepik.com/premium-vector/chatgpt-logo-vector-icon_275309-2.jpg" alt="ChatGPT" height="40" width="40"/>
-<img src="https://seeklogo.com/images/C/chatgpt-logo-4F0CBB63D4-seeklogo.com.png" alt="ChatGPT" height="40" width="40"/>
-
-
+  <img src="https://img.icons8.com/color/512/chatgpt.png" alt="ChatGPT" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
