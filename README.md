@@ -192,7 +192,7 @@ Progetto GAMES creato con Next.js in lingua rumena. Il sito include due giochi: 
 
 - **Frontend:** Next.js, Redux, Tailwind CSS and FIGMA
 - **Backend:** assente
-- **Deployment:** Netlify (solo lato frontend)
+- **Deployment:** Netlify
 
 <hr/>
 
