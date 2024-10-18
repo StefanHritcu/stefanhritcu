@@ -88,51 +88,8 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 ### 06 - **NEXT FIT TRACK** (October 2024):
 
 ## Video Demo
-<!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Canvas Video Player</title>
-</head>
-<body>
-    <canvas id="videoCanvas"></canvas>
-    <br>
-    <button id="playPauseBtn">Play/Pause</button>
 
-    <script>
-        const canvas = document.getElementById('videoCanvas');
-        const ctx = canvas.getContext('2d');
-        const playPauseBtn = document.getElementById('playPauseBtn');
-
-        const video = document.createElement('video');
-        video.src = 'path/to/your/video.mp4';
-        video.crossOrigin = 'anonymous';
-
-        video.addEventListener('loadedmetadata', () => {
-            canvas.width = video.videoWidth;
-            canvas.height = video.videoHeight;
-        });
-
-        function drawVideo() {
-            if (video.paused || video.ended) return;
-            ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
-            requestAnimationFrame(drawVideo);
-        }
-
-        playPauseBtn.addEventListener('click', () => {
-            if (video.paused) {
-                video.play();
-                drawVideo();
-            } else {
-                video.pause();
-            }
-        });
-
-        video.addEventListener('play', drawVideo);
-    </script>
-</body>
-</html>
+<a href="https://www.youtube.com/watch?v=jmd_jN8o9U8&list=LL&index=2" target="_blank">Watch the demo on YouTube (opens in a new tab)</a>
 
 Click the image above to watch the project demonstration on YouTube!
 
