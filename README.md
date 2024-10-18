@@ -88,9 +88,10 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 ### 06 - **NEXT FIT TRACK** (October 2024):
 
 ## Video Demo
-[![Watch the video](https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8)
+[![Watch the video](https://github.com/YourUsername/YourRepo/blob/main/video-demo.png?raw=true)](https://www.youtube.com/watch?v=jmd_jN8o9U8)
 
 Click the image above to watch the project demonstration on YouTube!
+
 
 **GitHub Repository/ Codice:** [PORTFOLIO](https://github.com/StefanHritcu/next-fit-track) **Qui troverai la descrizione completa**
 
