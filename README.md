@@ -91,8 +91,8 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 ### 08 - **NEXT FIT TRACK** (mid-October 2024):
 
-<div style="display: flex; align-items: center; justify-content: center;">
-        <p>🎥 Watch the YouTube Video</p>
+<div style="display: flex; align-items: center; justify-content: around;">
+        <div style="margin-right: 10px;><p>🎥 Watch the YouTube Video</p></div>
     <a href="https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s">
         <img src="https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
     </a>
