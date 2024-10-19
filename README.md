@@ -91,10 +91,12 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 ### 08 - **NEXT FIT TRACK** (mid-October 2024):
 
+<div style="display: flex; flex-direction: column; align-items: center;">
 🎥 ## Watch the YouTube Video
 <a href="https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s">
 <img src="https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
 </a>
+</div>
 
 🐙 **GitHub Repository/ Code:** [Next-Fit-Track](https://github.com/StefanHritcu/next-fit-track)
 
