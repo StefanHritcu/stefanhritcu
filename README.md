@@ -89,7 +89,7 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 ## Projects
 
-### 06 - **NEXT FIT TRACK** (October 2024):
+### 07 - **NEXT FIT TRACK** (mid-October 2024):
 
 ## Video Demo
 
@@ -109,6 +109,26 @@ Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere
 
 - **Frontend:** React, Bootstrap, json for Data
 - **Backend:** Assente
+- **Deployment:** Netlify
+
+<hr/>
+
+### 06 - **React-Performance-Optimizer-App** (early October 2024)
+
+## Watch the Video
+[![Watch the video](https://img.youtube.com/vi/T83AzqNsmw4/0.jpg)](https://www.youtube.com/watch?v=T83AzqNsmw4)
+
+**GitHub Repository/ Codice:** [React-Performance-Optimizer-App](https://github.com/StefanHritcu/Portfolio) **Qui troverai la descrizione completa**
+
+**Link to the deployed site on Netlify:** https://main--optimizerreactapp.netlify.app/
+
+#### Description:
+This React app features a sleek gallery designed to demonstrate advanced performance optimization techniques. With dynamic loading, it utilizes lazy loading, code splitting, and manual chunking to ensure a smooth user experience. The app also employs React Profiler for performance profiling, allowing for in-depth analysis and optimization opportunities.
+
+#### Technologies Used:
+
+- **Frontend:** React, Bootstrap, JSON for Data, Lazy Loading, Code Splitting, Manual Chunking, React Profiler
+- **Backend:** None
 - **Deployment:** Netlify
 
 <hr/>
