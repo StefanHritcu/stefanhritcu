@@ -113,6 +113,7 @@ This Next.js app helps users track their weight loss journey. It features an ide
 
 ### 07 - **Consiglio di Quartiere Bracciano Nuova** (all of September and all of October 2024):
 
+🎥 ## Watch the YouTube Video
 <a href="https://www.youtube.com/watch?v=Qnjkfho2srM">
 <img src="https://img.youtube.com/vi/Qnjkfho2srM/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
 </a>
