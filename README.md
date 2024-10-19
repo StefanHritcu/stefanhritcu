@@ -91,16 +91,12 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 ### 07 - **NEXT FIT TRACK** (mid-October 2024):
 
-## Video Demo
+## Watch the YouTube Video
+[![Watch the video](https://img.youtube.com/vi/T83AzqNsmw4/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8&list=LL&index=2)
 
-<a href="https://www.youtube.com/watch?v=jmd_jN8o9U8&list=LL&index=2" target="_blank">Watch the demo on YouTube (opens in a new tab)</a>
+**GitHub Repository/ Code:** [React-Performance-Optimizer-App](https://github.com/StefanHritcu/next-fit-track) **Here you will find the complete description**
 
-Click the image above to watch the project demonstration on YouTube!
-
-
-**GitHub Repository/ Codice:** [PORTFOLIO](https://github.com/StefanHritcu/next-fit-track) **Qui troverai la descrizione completa**
-
-**Link del sito con Netlify:** a breve disponibile... (08.10.24).
+**Link to the deployed site on Netlify:** Currently unavailable
 
 #### Descrizione:
 Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere in mostra le mie competenze tecniche e la mia esperienza nel campo dello sviluppo web. Ho costruito l'intera interfaccia utilizzando le tecnologie più moderne e ottimizzate, come React, per garantire un'esperienza utente fluida, veloce e reattiva. Il progetto riflette la mia attenzione alla creazione di interfacce utente intuitive e accattivanti, combinando design minimalista e funzionalità avanzate.
@@ -115,10 +111,10 @@ Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere
 
 ### 06 - **React-Performance-Optimizer-App** (early October 2024)
 
-## Watch the Video
+## Watch the YouTube Video
 [![Watch the video](https://img.youtube.com/vi/T83AzqNsmw4/0.jpg)](https://www.youtube.com/watch?v=T83AzqNsmw4)
 
-**GitHub Repository/ Codice:** [React-Performance-Optimizer-App](https://github.com/StefanHritcu/Portfolio) **Qui troverai la descrizione completa**
+**GitHub Repository/ Code:** [React-Performance-Optimizer-App](https://github.com/StefanHritcu/Portfolio) **Here you will find the complete description**
 
 **Link to the deployed site on Netlify:** https://main--optimizerreactapp.netlify.app/
 
