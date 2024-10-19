@@ -1,7 +1,7 @@
-<h1 align="center">Ciao 👋, sono Stefan Hritcu</h1>
+<h1 align="center">Hi 👋, I'm Stefan-Florian Hritcu</h1>
 <h2 align="center">Junior Front End Developer</h2>
 
-<img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="300" height="auto">
+<img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
 
 
 
