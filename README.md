@@ -92,7 +92,7 @@ All of this has been done in my spare time while working as a courier in Cologne
 ### 08 - **NEXT FIT TRACK** (mid-October 2024):
 
 <div style="display: flex; align-items: center; justify-content: around;">
-      <p>🎥 Watch the YouTube Video</p
+      <p>🎥⬇️ Watch the YouTube Video</p
     <a href="https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s">
         <img src="https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
     </a>
@@ -115,10 +115,12 @@ This Next.js app helps users track their weight loss journey. It features an ide
 
 ### 07 - **Consiglio di Quartiere Bracciano Nuova** (all of September and all of October 2024):
 
-🎥 ## Watch the YouTube Video
-<a href="https://www.youtube.com/watch?v=Qnjkfho2srM">
+<div style="display: flex; align-items: center; justify-content: around;">
+      <p>🎥⬇️ Watch the YouTube Video</p
+  <a href="https://www.youtube.com/watch?v=Qnjkfho2srM">
 <img src="https://img.youtube.com/vi/Qnjkfho2srM/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
 </a>
+</div>
 
 🐙 **GitHub Repository/ Code:** [Bracciano Nuova](https://github.com/StefanHritcu/Consiglio-di-Quartiere-Bracciano-Nuova)
 
