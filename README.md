@@ -92,7 +92,7 @@ All of this has been done in my spare time while working as a courier in Cologne
 ### 07 - **NEXT FIT TRACK** (mid-October 2024):
 
 ## Watch the YouTube Video
-[![Watch the video](https://img.youtube.com/vi/T83AzqNsmw4/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s)
+[![Watch the video](https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s)
 
 **GitHub Repository/ Code:** [React-Performance-Optimizer-App](https://github.com/StefanHritcu/next-fit-track) **Here you will find the complete description**
 
