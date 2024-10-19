@@ -89,10 +89,15 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 ## Projects
 
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; margin-right: 10px;">
 ### 08 - **NEXT FIT TRACK** (mid-October 2024):
 
 🎥 ## Watch the YouTube Video
-[![Watch the video](https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s)
+<a href="https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s">
+<img src="https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
+</a>
 
 🐙 **GitHub Repository/ Code:** [Next-Fit-Track](https://github.com/StefanHritcu/next-fit-track)
 
@@ -102,33 +107,34 @@ All of this has been done in my spare time while working as a courier in Cologne
 This Next.js app helps users track their weight loss journey. It features an ideal weight calculator, daily weight input, and dynamic progress charts using Chart.js. With a serverless backend powered by Supabase, user data is securely stored and easily accessible. Advanced state management is handled by Redux for seamless updates.
 
 🛠️ **Technologies Used:**
-
 - 🖥️ **Frontend:** Next.js, TailwindCSS, Chart.js, Redux, Lazy Loading
 - ⚙️ **Backend:** Supabase ✅
 - 🚀 **Deployment:** ❌
+</div>
 
-<hr/>
-
+<div style="flex: 1; margin-left: 10px;">
 ### 07 - **Consiglio di Quartiere Bracciano Nuova** (all of September and all of October 2024):
 
 🎥 ## Watch the YouTube Video
-[![Watch the video](https://img.youtube.com/vi/Qnjkfho2srM/0.jpg)](https://www.youtube.com/watch?v=Qnjkfho2srM)
+<a href="https://www.youtube.com/watch?v=Qnjkfho2srM">
+<img src="https://img.youtube.com/vi/Qnjkfho2srM/0.jpg" alt="Watch the video" style="width: 150px; height: auto;" />
+</a>
 
 🐙 **GitHub Repository/ Code:** [Bracciano Nuova](https://github.com/StefanHritcu/Consiglio-di-Quartiere-Bracciano-Nuova)
 
-🌐 **Link to the deployed site on Netlify:** https://bracciano-nuova-cdq.netlify.app/ ✅
+🌐 **Link to the deployed site on Netlify:** [https://bracciano-nuova-cdq.netlify.app/](https://bracciano-nuova-cdq.netlify.app/) ✅
 
 🔍 **Description:**
-A website created for a local non-profit organization aimed at fostering interaction and dialogue among residents of Bracciano Nuova. It allows sharing articles with photos and descriptions, promoting community engagement. Developed for free to enhance my portfolio as a Junior Frontend Developer and to gain positive recommendations through my contributions. Utilizing modern technologies for optimal performance.
-The site operates without a database to save costs. The site owner creates articles with images through a form. The content is converted into Markdown files and automatically pushed to GitHub. Netlify detects the push and regenerates the site with the new content. Articles are viewable online, leveraging the capabilities of static site generators like Hugo or Jekyll.
+A website created for a local non-profit organization aimed at fostering interaction and dialogue among residents of Bracciano Nuova. It allows sharing articles with photos and descriptions, promoting community engagement. Developed for free to enhance my portfolio as a Junior Frontend Developer and to gain positive recommendations through my contributions. Utilizing modern technologies for optimal performance. The site operates without a database to save costs. The site owner creates articles with images through a form. The content is converted into Markdown files and automatically pushed to GitHub. Netlify detects the push and regenerates the site with the new content. Articles are viewable online, leveraging the capabilities of static site generators like Hugo or Jekyll.
 
 🛠️ **Technologies Used:**
-
 - 🖥️ **Frontend:** React, TailwindCSS, Redux, Lazy Loading, Serverless Functions, Hugo/Jekyll
 - ⚙️ **Backend:** ❌ Github
 - 🚀 **Deployment:** Netlify ✅
+</div>
 
-<hr/>
+</div>
+
 
 ### 06 - **React-Performance-Optimizer-App** (early October 2024)
 
