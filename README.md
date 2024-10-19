@@ -91,21 +91,21 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 ### 07 - **NEXT FIT TRACK** (mid-October 2024):
 
-🎥 ## Watch the YouTube Video 🎥
+🎥 ## Watch the YouTube Video
 [![Watch the video](https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s)
 
-🐙 **GitHub Repository/ Code:** 🐙 [Next-Fit-Track](https://github.com/StefanHritcu/next-fit-track)
+🐙 **GitHub Repository/ Code:** [Next-Fit-Track](https://github.com/StefanHritcu/next-fit-track)
 
-🌐 **Link to the deployed site on Netlify:** 🌐 ❌ ✅Currently unavailable
+🌐 **Link to the deployed site on Netlify:** Currently unavailable ❌
 
-🔍 #### Description: 🔍
-Il mio portfolio personale è un progetto frontend che ho sviluppato per mettere in mostra le mie competenze tecniche e la mia esperienza nel campo dello sviluppo web. Ho costruito l'intera interfaccia utilizzando le tecnologie più moderne e ottimizzate, come React, per garantire un'esperienza utente fluida, veloce e reattiva. Il progetto riflette la mia attenzione alla creazione di interfacce utente intuitive e accattivanti, combinando design minimalista e funzionalità avanzate.
+🔍 #### Description:
+This Next.js app helps users track their weight loss journey. It features an ideal weight calculator, daily weight input, and dynamic progress charts using Chart.js. With a serverless backend powered by Supabase, user data is securely stored and easily accessible. Advanced state management is handled by Redux for seamless updates.
 
-🛠️ #### Technologies Used: 🛠️
+🛠️ #### Technologies Used: 
 
-- 🖥️ **Frontend:** React, Bootstrap, json for Data
-- ⚙️ **Backend:** ❌
-- 🚀 **Deployment:** Netlify
+- 🖥️ **Frontend:** Next.js, TailwindCSS, Chart.js, Redux, Lazy Loading
+- ⚙️ **Backend:** Supabase ✅
+- 🚀 **Deployment:** ❌
 
 <hr/>
 
