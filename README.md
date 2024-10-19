@@ -15,12 +15,12 @@
       </section>
     </td>
     <td style="padding-left: 20px;">
-      <h2>📋 Indice</h2>
+      <h2>📋 Index</h2>
       <!-- Utilizza una lista non ordinata per i link -->
       <ul style="list-style-type: none; padding: 0; margin: 0;">
         <!-- Applica stili inline per migliorare l'aspetto dei link -->
         <li style="margin-bottom: 10px;">
-          <a href="#chi-sono">Chi Sono</a>
+          <a href="#chi-sono">About Me</a>
         </li>
         <li style="margin-bottom: 10px;">
           <a href="#hard-skills">Hard Skills</a>
@@ -29,10 +29,10 @@
           <a href="#soft-skills">Soft Skills</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#progetti">Progetti</a>
+          <a href="#progetti">Projects</a>
         </li>
         <li style="margin-bottom: 10px;">
-          <a href="#contatti">Contatti</a>
+          <a href="#contatti">Contact Me</a>
         </li>
       </ul>
       <hr>
@@ -42,9 +42,13 @@
 
 ---
 
-## Chi Sono
+## About Me
 
-Sono un Frontend Developer autodidatta con circa un anno di esperienza nello sviluppo di applicazioni web interattive e responsive. Dopo aver vissuto in Germania, sono tornato in Italia settembre 2024 per iniziare la mia prima esperienza lavorativa come sviluppatore frontend. Durante il mio percorso di apprendimento, ho collaborato a progetti open source online, lavorando con altri sviluppatori e affinando le mie competenze. Ho recentemente trovato il mio primo cliente grazie a un approccio strutturato per raccogliere informazioni dettagliate sulle sue esigenze, e attualmente sono impegnato nella creazione del suo sito web, dedicandomi con passione per offrire la soluzione migliore.
+I started my journey in web development over a year ago, beginning with Java. After a few weeks, I realized it wasn’t the right fit for me, so I shifted my focus to frontend development, starting with HTML and CSS. Soon after, I dived into JavaScript, where the real challenges began.
+
+By December 2023, I picked up my first framework, React, and I’ve been working with it daily ever since, using Vite for a faster development experience. I've also gained extensive experience with Next.js for SSR projects, eventually using Node.js for backend development and MongoDB as the database for a restaurant website. Throughout this past year, I’ve taken on various projects—some personal, lasting several months, and others in collaboration with a backend developer. I’m also working on a non-profit project for an Italian association, which I continue to support.
+
+All of this has been done in my spare time while working as a courier in Cologne, Germany.
 
 ---
 
@@ -74,16 +78,16 @@ Sono un Frontend Developer autodidatta con circa un anno di esperienza nello svi
 
 ## Soft Skills
 
-- **PNL**: Corso Practitioner in Programmazione Neuro Linguistica
-- **Utilizzo di ChatGPT** per migliorare la produttività e risolvere problemi di sviluppo
-- **Lingue**: Rumeno e Italiano (madrelingua), Tedesco e Spagnolo (ottime conoscenze), Inglese e Francese (conoscenze di base)
-- **Pensiero critico e problem solving**: Capacità di scomporre problemi complessi in parti gestibili
-- **Mentalità algoritmica** per l'approccio alla risoluzione dei problemi
-- **Esperienza lavorativa internazionale**: Romania, Germania, Italia, Francia e Spagna
+- **Excellent communication and teamwork skills**: Proven ability to collaborate effectively in diverse team environments.
+- **Proficiency with ChatGPT and AI tools**: Skilled in using AI solutions to streamline workflows, especially in repetitive tasks.
+- **Languages**: Native in Romanian and Italian; fluent in German, English, and Spanish; conversational in French.
+- **Critical thinking and problem-solving**: Ability to break down complex problems into manageable parts.
+- **Algorithmic mindset**: A structured approach to tackling challenges and developing efficient solutions.
+- **International work experience**: Experience across Romania, Germany, Italy, France, Spain, and Belgium.
 
 ---
 
-## Progetti
+## Projects
 
 ### 06 - **NEXT FIT TRACK** (October 2024):
 
