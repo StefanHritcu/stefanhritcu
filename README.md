@@ -94,7 +94,8 @@ All of this has been done in my spare time while working as a courier in Cologne
 ## Watch the YouTube Video
 [![Watch the video](https://img.youtube.com/vi/jmd_jN8o9U8/0.jpg)](https://www.youtube.com/watch?v=jmd_jN8o9U8&t=30s)
 
-**GitHub Repository/ Code:** [React-Performance-Optimizer-App](https://github.com/StefanHritcu/next-fit-track) **Here you will find the complete description**
+**GitHub Repository/ Code:** [![GitHub](https://simpleicons.org/icons/github.svg)](https://github.com/StefanHritcu/next-fit-track) [Next-Fit-Track](https://github.com/StefanHritcu/next-fit-track)
+
 
 **Link to the deployed site on Netlify:** Currently unavailable
 
