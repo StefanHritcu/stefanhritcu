@@ -98,10 +98,10 @@ All of this has been done in my spare time while working as a courier in Cologne
 
 🌐 **Link to the deployed site on Netlify:** Currently unavailable ❌
 
-🔍 #### Description:
+🔍 **Description:**
 This Next.js app helps users track their weight loss journey. It features an ideal weight calculator, daily weight input, and dynamic progress charts using Chart.js. With a serverless backend powered by Supabase, user data is securely stored and easily accessible. Advanced state management is handled by Redux for seamless updates.
 
-🛠️ #### Technologies Used: 
+🛠️ **Technologies Used:**
 
 - 🖥️ **Frontend:** Next.js, TailwindCSS, Chart.js, Redux, Lazy Loading
 - ⚙️ **Backend:** Supabase ✅
