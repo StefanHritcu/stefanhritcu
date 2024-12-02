@@ -15,25 +15,23 @@
   <img src="https://img.shields.io/badge/Testing-46A2F1?logo=jest&logoColor=white&style=for-the-badge" alt="Testing">
   <img src="https://img.shields.io/badge/Accessibility-A1C718?style=for-the-badge" alt="Accessibility">
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanhritcu)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
+</div>
 
 
+---
+
+## 🌟 [My Portfolio](#)  
+Take a look at my latest projects and get to know more about my work. *(Link coming soon!)*
+
+---
 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=stefanhritcu" alt="GitHub Streak Stats" />
 </div>
 
-
-## 🌟 [My Portfolio](#)  
-Take a look at my latest projects and get to know more about my work. *(Link coming soon!)*
-
----
 
 ## 👨‍💻 About Me
 I am a passionate Junior Front End Developer who loves creating engaging and user-friendly interfaces. My goal is to continuously learn, improve my skills, and contribute to meaningful projects. I am especially interested in performance optimization, modern design systems, and accessibility.
