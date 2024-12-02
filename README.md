@@ -27,23 +27,8 @@
 
 
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&hide_title=true&hide=prs&count_private=true)
-
-
-![Commits in Last 7 Days](https://badgen.net/github/commits/stefanhritcu)
-
-
-![GitHub Contribution Activity](https://github-readme-activity-graph.cyclic.app/graph?username=stefanhritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanhritcu)
-
-
-![Commits Badge](https://github-readme-stats.vercel.app/api/stats?username=stefanhritcu&show_icons=true&count_private=true&hide=prs&hide_title=true)
-![Commits in the Last Year](https://badgen.net/github/commits/username/stefanhritcu)
-
-
-
-![Total Commits](https://img.shields.io/github/commits-since/username/stefanhritcu/latest)
+![My GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&count_private=true&hide=prs&hide_title=true)
 
 
 
