@@ -19,7 +19,14 @@
 <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
 
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanhritcu&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=stefanhritcu" alt="GitHub Streak Stats" />
+</div>
+
 
 ## 🌟 [My Portfolio](#)  
 Take a look at my latest projects and get to know more about my work. *(Link coming soon!)*
