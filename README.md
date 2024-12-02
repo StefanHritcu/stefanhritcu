@@ -20,7 +20,8 @@
 
 
 ## 📊 My GitHub Contribution
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stefanhritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StefanHritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
+
 
 
 <div align="center">
