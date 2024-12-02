@@ -19,7 +19,8 @@
 <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stefanhritcu&theme=light)](https://git.io/streak-stats)
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&hide=stars&theme=light)
+
 
 
 
