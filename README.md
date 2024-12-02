@@ -19,7 +19,29 @@
 <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
 
 
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&hide=stars&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanhritcu)
+
+
+![Wakatime](https://wakatime.com/badge/user/1234567/project/abcdefg.svg)
+
+
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefanhritcu&theme=github)
+
+
+![Commits in the Last Year](https://badgen.net/github/commits/stefanhritcu)
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=stefanhritcu)
+
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=stefanhritcu)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanhritcu&layout=compact)
+
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stefanhritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
+
 
 
 
