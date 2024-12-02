@@ -19,9 +19,9 @@
 <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanhritcu&layout=compact" alt="Top Languages" />
-</div>
+## 📊 My GitHub Contribution
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stefanhritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=stefanhritcu" alt="GitHub Streak Stats" />
