@@ -16,20 +16,16 @@
   <img src="https://img.shields.io/badge/Accessibility-A1C718?style=for-the-badge" alt="Accessibility">
 </div>
 
-<div height="40">
-</div>
-
-<div align="center" margin-top="8px">
-  <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
-</div>
-
-
 ---
 
 ## 🌟 [My Portfolio](#)  
 Take a look at my latest projects and get to know more about my work. *(Link coming soon!)*
 
 ---
+
+
+  <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
+
 
 
 <div align="center">
