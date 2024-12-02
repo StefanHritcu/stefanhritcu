@@ -19,28 +19,32 @@
 <img src="https://komarev.com/ghpvc/?username=stefanhritcu&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" width="200" height="auto">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanhritcu)
 
-
-![Wakatime](https://wakatime.com/badge/user/1234567/project/abcdefg.svg)
 
 
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefanhritcu&theme=github)
 
 
-![Commits in the Last Year](https://badgen.net/github/commits/stefanhritcu)
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=stefanhritcu)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=stefanhritcu)
+![Commits in Last 7 Days](https://badgen.net/github/commits/stefanhritcu)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanhritcu&layout=compact)
+![GitHub Contribution Activity](https://github-readme-activity-graph.cyclic.app/graph?username=stefanhritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanhritcu)
 
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=stefanhritcu&bg_color=ffffff&color=1f78c1&line=63c132&point=1f78c1&area=true&hide_border=true)
+![Commits Badge](https://github-readme-stats.vercel.app/api/stats?username=stefanhritcu&show_icons=true&count_private=true&hide=prs&hide_title=true)
+![Commits in the Last Year](https://badgen.net/github/commits/username/stefanhritcu)
+
+
+
+![Total Commits](https://img.shields.io/github/commits-since/username/stefanhritcu/latest)
+
 
 
 
