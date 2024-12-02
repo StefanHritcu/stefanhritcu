@@ -20,14 +20,6 @@
 
 
 
-
-
-![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stefanhritcu&theme=github)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanhritcu&show_icons=true&count_private=true&hide=prs&hide_title=true)
-
-
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanhritcu)
 
 
