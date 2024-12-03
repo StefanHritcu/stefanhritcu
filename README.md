@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 [My Portfolio](#)  
-Take a look at my latest projects and get to know more about my work. *(Link coming soon!)*
+Take a look at my latest projects and get to know more about my work. https://hritcu-personal-portfolio.netlify.app/
 
 ---
 
