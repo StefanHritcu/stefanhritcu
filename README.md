@@ -21,7 +21,8 @@ Check out my personal PORTFOLIO, built from scratch by me:  https://hritcu-perso
 As a passionate Front End Developer, I offer not just technical skills, but a deep understanding of human interaction, cultural context, creativity, and the ability to collaborate effectively in team environments—traits that set me apart from AI.
 
 - 🌍 **Multilingual Expertise**: Fluent in **6 languages**:
-  - ![Romanian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png) Romanian
+  - ![Romanian Flag](https://www.countryflags.io/ro/flat/64.png) Romanian
+
 
   - <div style="display: flex; justify-content: center; align-items: center;">🇮🇹 Italian</div>
   - <div style="display: flex; justify-content: center; align-items: center;">🇩🇪 German</div>
