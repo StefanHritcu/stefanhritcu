@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 [My Portfolio](#)  
-Take a look at my latest projects and get to know more about my work. https://hritcu-personal-portfolio.netlify.app/
+Check out my personal PORTFOLIO, built from scratch by me:  https://hritcu-personal-portfolio.netlify.app/
 
 ---
 
