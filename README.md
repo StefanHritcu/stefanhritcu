@@ -17,12 +17,26 @@ Check out my personal PORTFOLIO, built from scratch by me:  https://hritcu-perso
 </div>
 
 
-## 👨‍💻 About Me
-I am a passionate Junior Front End Developer who loves creating engaging and user-friendly interfaces. My goal is to continuously learn, improve my skills, and contribute to meaningful projects. I am especially interested in performance optimization, modern design systems, and accessibility.
+## 🚀 Why I Bring More Value Than an AI  
+As a passionate human Front End Developer, I offer not just technical skills, but a deep understanding of human interaction, cultural context, and creativity that sets me apart from AI.
 
-- 🌱 Currently learning advanced front-end techniques like **performance optimization** and **accessibility testing**.
-- 💡 Always eager to explore **new technologies** and implement best practices in development.
-- 🚀 Aspiring to build seamless, intuitive, and impactful web applications.
+- 🌍 **Multilingual Expertise**: Fluent in **6 languages**:
+  - <div style="display: flex; justify-content: center; align-items: center;">🇷🇴 Romanian</div>
+  - <div style="display: flex; justify-content: center; align-items: center;">🇮🇹 Italian</div>
+  - <div style="display: flex; justify-content: center; align-items: center;">🇩🇪 German</div>
+  - <div style="display: flex; justify-content: center; align-items: center;">🇪🇸 Spanish</div>
+  - <div style="display: flex; justify-content: center; align-items: center;">🇬🇧 English</div>
+  - <div style="display: flex; justify-content: center; align-items: center;">🇫🇷 French</div>
+
+- 💖 **Passion for the Craft**: My love for web development drives me to constantly improve and push the boundaries of what’s possible. I take pride in creating intuitive, user-centered designs.
+
+- 🌐 **Diverse Experience**: Having worked in **different European countries** and various industries, I bring a wide range of perspectives and adaptability to each project.
+
+- 🗣 **Strong Communication Skills**: Certified in **Neuro-Linguistic Programming (NLP)**, I excel at understanding client needs, building trust, and creating solutions that resonate.
+
+- 👨‍💻 **Personal Projects**: My experience goes beyond coding—I’ve honed my skills in **client interaction**: listening, understanding, and delivering on their unique requirements.
+
+- 🎯 **Client-Centric Approach**: With a focus on **active listening** and clear communication, I ensure that each project is not only technically sound but also aligned with the client’s vision.
 
 ---
 
