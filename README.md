@@ -21,7 +21,7 @@ Check out my personal PORTFOLIO, built from scratch by me:  https://hritcu-perso
 As a passionate Front End Developer, I offer not just technical skills, but a deep understanding of human interaction, cultural context, creativity, and the ability to collaborate effectively in team environments—traits that set me apart from AI.
 
 <div align="center" >
-  <h1>- 🌍 Multilingual Expertise: Fluent in **6 languages</h1>
+  <h1>- 🌍 Multilingual Expertise: Fluent in 6 languages</h1>
   <p>
     <img src="https://flagcdn.com/w320/ro.png" width="60" height="auto" alt="Romanian Flag">
     <img src="https://flagcdn.com/w320/it.png" width="60" height="auto" alt="Italian Flag">
@@ -52,9 +52,9 @@ As a passionate Front End Developer, I offer not just technical skills, but a de
 ## 📫 Contact Me
 Feel free to reach out for collaboration or just to say hi!
 
-- **Email:** [pula](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [StefanHritcu](https://github.com/StefanHritcu)
+- **Email:** [dev.stefanhritcu@gmail.com](mailto:dev.stefanhritcu@gmail.com)
+- [Stefan Hritcu - Linkedin](#https://www.linkedin.com/in/stefan-florian-hritcu-ba615431b/)
+- [Stefan Hritcu - Portfolio]([https://github.com/StefanHritcu](https://hritcu-personal-portfolio.netlify.app/))
 
 ---
 
