@@ -20,7 +20,7 @@ Check out my personal PORTFOLIO, built from scratch by me:  https://hritcu-perso
 ## 🚀 Why I Bring More Value Than an AI  
 As a passionate Front End Developer, I offer not just technical skills, but a deep understanding of human interaction, cultural context, creativity, and the ability to collaborate effectively in team environments—traits that set me apart from AI.
 
-<div align="center">
+<div flex="center" >
   <h1>- 🌍 **Multilingual Expertise**: Fluent in **6 languages**:</h1>
   <p>
     <img src="https://flagcdn.com/w320/ro.png" width="60" height="auto" alt="Romanian Flag">
