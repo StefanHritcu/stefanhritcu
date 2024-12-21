@@ -52,9 +52,9 @@ As a passionate Front End Developer, I offer not just technical skills, but a de
 ## 📫 Contact Me
 Feel free to reach out for collaboration or just to say hi!
 
-- **Email:** [dev.stefanhritcu@gmail.com](mailto:dev.stefanhritcu@gmail.com)
-- [Stefan Hritcu - Linkedin](#https://www.linkedin.com/in/stefan-florian-hritcu-ba615431b/)
-- [Stefan Hritcu - Portfolio]([https://github.com/StefanHritcu](https://hritcu-personal-portfolio.netlify.app/))
+- **Email**: [dev.stefanhritcu@gmail.com](mailto:dev.stefanhritcu@gmail.com)
+- **LinkedIn**: [Stefan Hritcu - LinkedIn](https://www.linkedin.com/in/stefan-florian-hritcu-ba615431b/)
+- **Portfolio**: [Stefan Hritcu - Portfolio](https://hritcu-personal-portfolio.netlify.app/)
 
 ---
 
