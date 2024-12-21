@@ -38,9 +38,12 @@ As a passionate Front End Developer, I offer not just technical skills, but a de
 
 - 🗣 **Strong Communication Skills**: Certified in **Neuro-Linguistic Programming (NLP)**, I excel at understanding client needs, building trust, and creating solutions that resonate.
 
-- 👨‍💻 **Personal Projects**: My experience goes beyond coding—I’ve honed my skills in **client interaction**: listening, understanding, and delivering on their unique requirements.
+- 👨‍💻 **Personal Projects**: I’ve had the opportunity to work directly on client projects, developing methods for gathering crucial data on my own. This experience allowed me to deeply understand client needs, handle unforeseen changes, and successfully deliver projects, gaining valuable skills that have had a significant impact on my professional journey.
 
-- 🎯 **Client-Centric Approach**: With a focus on **active listening** and clear communication, I ensure that each project is not only technically sound but also aligned with the client’s vision.
+- 🤝 **Team Collaboration**: I thrive in collaborative environments, actively contributing to group discussions and working harmoniously with diverse teams to achieve shared goals. My ability to listen, communicate clearly, and adapt to different perspectives ensures that team dynamics remain productive and focused.
+
+- 🧩 **Problem-Solving & Ownership**: I possess a strong drive to identify and solve problems proactively. I am always eager to take ownership of tasks and responsibilities, approaching challenges with a solutions-oriented mindset and ensuring that projects move forward smoothly.
+
 
 ---
 
