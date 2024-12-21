@@ -23,16 +23,15 @@ As a passionate Front End Developer, I offer not just technical skills, but a de
 - 🌍 **Multilingual Expertise**: Fluent in **6 languages**:
 
 
-![Romanian Flag](https://flagcdn.com/w320/ro.png) Romanian
+<div align="center">
+  <img src="https://flagcdn.com/w320/ro.png" width="20" height="auto" alt="Romanian Flag">
+  <img src="https://flagcdn.com/w320/it.png" width="20" height="auto" alt="Italian Flag">
+  <img src="https://flagcdn.com/w320/de.png" width="20" height="auto" alt="German Flag">
+  <img src="https://flagcdn.com/w320/us.png" width="20" height="auto" alt="American Flag">
+  <img src="https://flagcdn.com/w320/es.png" width="20" height="auto" alt="Spanish Flag">
+  <img src="https://flagcdn.com/w320/fr.png" width="20" height="auto" alt="French Flag">
+</div>
 
-
-
-
-  - <div style="display: flex; justify-content: center; align-items: center;">🇮🇹 Italian</div>
-  - <div style="display: flex; justify-content: center; align-items: center;">🇩🇪 German</div>
-  - <div style="display: flex; justify-content: center; align-items: center;">🇪🇸 Spanish</div>
-  - <div style="display: flex; justify-content: center; align-items: center;">🇬🇧 English</div>
-  - <div style="display: flex; justify-content: center; align-items: center;">🇫🇷 French</div>
 
 - 💖 **Passion for the Craft**: My love for web development drives me to constantly improve and push the boundaries of what’s possible. I take pride in creating intuitive, user-centered designs.
 
